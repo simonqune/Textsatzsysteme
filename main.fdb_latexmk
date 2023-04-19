@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1681713208 "main.bcf" "main.bbl" "main" 1681713770 0
+["biber main"] 1681914176 "main.bcf" "main.bbl" "main" 1681915333 0
   "./ref/ref_liste.bib" 1679061830 308 a29d3da8073c494219ba2fbff7f2ca11 ""
-  "main.bcf" 1681713770 107192 46c86d7736da912b6d76373460d86cfe "pdflatex"
+  "main.bcf" 1681915332 106842 4153cdc27f4ac706000f87088bf883f6 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1681713769 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1681713770 0
+["pdflatex"] 1681915331 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1681915333 0
   "C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1681712599 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/kuhns/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1680337344 10788009 6bdcefacb10213bc9a84c5cbc258c069 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -44,7 +44,6 @@
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb" 1256933040 96107 daf52840b555e3b38f9679b629b5e2df ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb" 1256933040 97155 ffb6880a68751002f414154d64548ca3 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb" 1256933040 94400 e33ecfb646a9f148e2e53da01a9168fe ""
-  "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb" 1256933040 119663 1a3a2206591ddc98c6d6c6271a282516 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb" 1256933040 108953 1279d38d2b157d7ed70f81f602fb919c ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1664895951 152127 31067273495f46936aa2b3653cd6090b ""
@@ -107,25 +106,23 @@
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/tex/latex/sansmath/sansmath.sty" 1271918940 8168 ff4ba5f8ff45ea059f3ec8f06131363f ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1654690828 4545 4c279ac9292a1be8afa9ab2f1d3299c2 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Git/Textsatzsysteme/main.tex" 1681713208 1817 29c64adb5ec915829aff06345fa0ad94 ""
-  "kapitel/AR_in_der_Industrie_Stand_der_Technik.tex" 1681713472 1778 042f7d62e35d4625ef5ba89ff8b20d15 ""
+  "c:/Git/Textsatzsysteme/main.tex" 1681914192 1779 3326cbe144ef38d5aa8a7ce60880edf1 ""
+  "kapitel/AR_in_der_Industrie_Stand_der_Technik.tex" 1681714223 1778 042f7d62e35d4625ef5ba89ff8b20d15 ""
   "kapitel/Einleitung.tex" 1681713132 932 00a663b6b36b7efe1899b65a4d3203f0 ""
   "kapitel/Fazit.tex" 1681713170 17 154d235614f1d83d7bcc14f17a868ba1 ""
   "kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex" 1681713170 93 c283c050b7c90ba0cabcbefa1feee8d9 ""
   "kapitel/Literaturverzeichnis.tex" 1681713170 32 8214c1d5528df6ffcbe887436791024f ""
-  "kapitel/Potenzial von AR für neue Geschäftsmodelle.tex" 1681713766 3093 b5ee5f925f22ccb0458dab852b985e9a ""
-  "kapitel/Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex" 1681713170 85 c1e2422411360af4718effe6589074a2 ""
+  "kapitel/Potenzial von AR für neue Geschäftsmodelle.tex" 1681915329 4143 caba39aa9e1dc639330ce3fbdaa36edd ""
+  "kapitel/Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex" 1681915329 1932 fa0a6078bb10c29b10691922ddca48b6 ""
   "kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex" 1681713170 69 fa835e68a6103bc6d99f8a5fa1eb0770 ""
-  "main.aux" 1681713770 1995 4865dfc9ddf7eb564dfba15c5a952fc6 "pdflatex"
-  "main.bbl" 1681713210 486 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.run.xml" 1681713770 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
-  "main.tex" 1681713208 1817 29c64adb5ec915829aff06345fa0ad94 ""
-  "main.toc" 1681713770 1246 53e018cc31a44a9e74ff730c79766730 "pdflatex"
+  "main.aux" 1681915332 2373 9602e80aed251d6260dd1de53ac9def8 "pdflatex"
+  "main.bbl" 1681914197 486 ee04f40f768daeed26442158e95aba61 "biber main"
+  "main.run.xml" 1681915332 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
+  "main.tex" 1681914192 1779 3326cbe144ef38d5aa8a7ce60880edf1 ""
   (generated)
   "main.aux"
   "main.bcf"
   "main.log"
   "main.pdf"
   "main.run.xml"
-  "main.toc"
   (rewritten before read)

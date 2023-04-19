@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  17 APR 2023 08:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  19 APR 2023 16:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -624,50 +624,40 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
+)) (kapitel/Einleitung.tex
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 48.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 1.
 
-(main.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 5.
+) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex) (kapitel/Potenzial von AR für neue Geschäftsmodelle.tex [1{C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+]) (kapitel/Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex) (kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex) (kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex) (kapitel/Fazit.tex) (kapitel/Literaturverzeichnis.tex)
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 57.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
+(Font)              <7> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
-)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
- (kapitel/Einleitung.tex) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex) (kapitel/Potenzial von AR für neue Geschäftsmodelle.tex [1{C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
-
-
-]) (kapitel/Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex) (kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex) (kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex) (kapitel/Fazit.tex) (kapitel/Literaturverzeichnis.tex)
-
-LaTeX Warning: Empty bibliography on input line 58.
-
-[2
-
-] (main.aux)
+(Font)              <5> on input line 57.
+ [2] (main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13811 strings out of 475385
- 290023 string characters out of 2776908
+ 13805 strings out of 475385
+ 289946 string characters out of 2776908
  1112909 words of memory out of 3000000
- 35000 multiletter control sequences out of 15000+600000
+ 34997 multiletter control sequences out of 15000+600000
  663837 words of font info for 130 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  123i,19n,120p,700b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
-Output written on main.pdf (2 pages, 164866 bytes).
+{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
+Output written on main.pdf (2 pages, 139710 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
