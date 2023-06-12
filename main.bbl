@@ -16,5 +16,224 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{liu2022probing}{article}{}
+      \name{author}{7}{}{%
+        {{hash=60e88591d316b99e9f136edb8aead89f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Changchun},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8dd02868961958521a4b80441e834bc0}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Haihua},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ef64457c96d7b9e62a79f1b6090d30fa}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Dunbing},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0bd6364fb0f202689d45a4352dc0d7b9}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Qingwei},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=6313f415f8d9f5227e532960387cd7fa}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Tong},
+           giveni={T\bibinitperiod}}}%
+        {{hash=619428b9bc5864c8559e0a3744fa5c0a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Liping},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5c3cd3e3e7ea10506d32a44e72f197d0}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Yejia},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{da6399a198c5ab7d8caf866c9de50343}
+      \strng{fullhash}{bce2b8d0b379dfacb91bc14d97ef6a96}
+      \strng{bibnamehash}{da6399a198c5ab7d8caf866c9de50343}
+      \strng{authorbibnamehash}{da6399a198c5ab7d8caf866c9de50343}
+      \strng{authornamehash}{da6399a198c5ab7d8caf866c9de50343}
+      \strng{authorfullhash}{bce2b8d0b379dfacb91bc14d97ef6a96}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Robotics and Computer-Integrated Manufacturing}
+      \field{title}{Probing an intelligent predictive maintenance approach with deep learning and augmented reality for machine tools in IoT-enabled manufacturing}
+      \field{volume}{77}
+      \field{year}{2022}
+      \field{pages}{102357}
+      \range{pages}{1}
+    \endentry
+    \entry{4079262}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=9613af8d70f2039f34d2243e017c8f61}{%
+           family={Platonov},
+           familyi={P\bibinitperiod},
+           given={Juri},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b56ebf6fb8b8377a8dd208c08f4e6e4e}{%
+           family={Heibel},
+           familyi={H\bibinitperiod},
+           given={Hauke},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5fcfdf91f525cfee2d74cb997504112d}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=61c757e4fb4bbcf61ca1873297e8c4dd}{%
+           family={Grollmann},
+           familyi={G\bibinitperiod},
+           given={Bert},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{43787ade7eadf1a93211dc938dda1a96}
+      \strng{fullhash}{a983bfafe9adeaebe5ee221d5f853e01}
+      \strng{bibnamehash}{43787ade7eadf1a93211dc938dda1a96}
+      \strng{authorbibnamehash}{43787ade7eadf1a93211dc938dda1a96}
+      \strng{authornamehash}{43787ade7eadf1a93211dc938dda1a96}
+      \strng{authorfullhash}{a983bfafe9adeaebe5ee221d5f853e01}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2006 IEEE/ACM International Symposium on Mixed and Augmented Reality}
+      \field{title}{A mobile markerless AR system for maintenance and repair}
+      \field{year}{2006}
+      \field{pages}{105\bibrangedash 108}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ISMAR.2006.297800
+      \endverb
+    \endentry
+    \entry{5620905}{article}{}
+      \name{author}{2}{}{%
+        {{hash=80545ab8892f5d7f2c76994bf6088473}{%
+           family={Henderson},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4b3462cefe1c5b2c7537ae21555c665a}{%
+           family={Feiner},
+           familyi={F\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d02f394fc8d42b4d79c4c89a42c2a946}
+      \strng{fullhash}{d02f394fc8d42b4d79c4c89a42c2a946}
+      \strng{bibnamehash}{d02f394fc8d42b4d79c4c89a42c2a946}
+      \strng{authorbibnamehash}{d02f394fc8d42b4d79c4c89a42c2a946}
+      \strng{authornamehash}{d02f394fc8d42b4d79c4c89a42c2a946}
+      \strng{authorfullhash}{d02f394fc8d42b4d79c4c89a42c2a946}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{10}
+      \field{title}{Exploring the Benefits of Augmented Reality Documentation for Maintenance and Repair}
+      \field{volume}{17}
+      \field{year}{2011}
+      \field{pages}{1355\bibrangedash 1368}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/TVCG.2010.245
+      \endverb
+    \endentry
+    \entry{9112336}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3a7bd14c1ee0348efc686c0a2e80a38c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shufei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=17d64641c9501c33dda0578b773d6f4f}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Pai},
+           giveni={P\bibinitperiod}}}%
+        {{hash=deda70ffab22f0a577cfefecc7491cd2}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Lianyu},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{5059fdfd14e81f376724e8320fcfc64c}
+      \strng{fullhash}{5059fdfd14e81f376724e8320fcfc64c}
+      \strng{bibnamehash}{5059fdfd14e81f376724e8320fcfc64c}
+      \strng{authorbibnamehash}{5059fdfd14e81f376724e8320fcfc64c}
+      \strng{authornamehash}{5059fdfd14e81f376724e8320fcfc64c}
+      \strng{authorfullhash}{5059fdfd14e81f376724e8320fcfc64c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Industrial Informatics}
+      \field{number}{3}
+      \field{title}{An AR-Assisted Deep Learning-Based Approach for Automatic Inspection of Aviation Connectors}
+      \field{volume}{17}
+      \field{year}{2021}
+      \field{pages}{1721\bibrangedash 1731}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/TII.2020.3000870
+      \endverb
+    \endentry
+    \entry{etonam2019augmented}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8579e9d4f12a9c2a45ae1aef2cde313d}{%
+           family={Etonam},
+           familyi={E\bibinitperiod},
+           given={Amelessodji\bibnamedelima Kokougan},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5b0f062c19c608e823622c1c0059005e}{%
+           family={Di\bibnamedelima Gravio},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Giulio},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b165f2f9e9795060939ee963e0bce6e5}{%
+           family={Kuloba},
+           familyi={K\bibinitperiod},
+           given={Patrick\bibnamedelima W},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=8e12b34e000ea509b6f47a634a602e07}{%
+           family={Njiri},
+           familyi={N\bibinitperiod},
+           given={Jackson\bibnamedelima G},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{037fc661505a6f6eeb0bcc9aa71fd7ce}
+      \strng{fullhash}{b00f8dcca41693cf721128f84ed560c8}
+      \strng{bibnamehash}{037fc661505a6f6eeb0bcc9aa71fd7ce}
+      \strng{authorbibnamehash}{037fc661505a6f6eeb0bcc9aa71fd7ce}
+      \strng{authornamehash}{037fc661505a6f6eeb0bcc9aa71fd7ce}
+      \strng{authorfullhash}{b00f8dcca41693cf721128f84ed560c8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Engineering and Advanced Technology}
+      \field{number}{1}
+      \field{title}{Augmented reality (ar) application in manufacturing encompassing quality control and maintenance}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{197\bibrangedash 204}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

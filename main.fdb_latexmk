@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1686556041 "main.bcf" "main.bbl" "main" 1686561326 0
-  "./ref/ref_liste.bib" 1679061830 308 a29d3da8073c494219ba2fbff7f2ca11 ""
-  "main.bcf" 1686561326 106842 4153cdc27f4ac706000f87088bf883f6 "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 0 -1
+  "./ref/ref_liste.bib" 1686592465 2241 b3e4bcbb7378101a3649acec1073a910 ""
+  "main.bcf" 1686594468 106717 07c63a4aefccf381144459339d375ee8 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1686561325 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1686561326 0
+["pdflatex"] 1686594467 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1686594469 2
   "C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686556022 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/kuhns/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1680337344 10788009 6bdcefacb10213bc9a84c5cbc258c069 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -134,20 +134,19 @@
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Git/Textsatzsysteme/main.tex" 1686556042 1904 53a7eafee10c76fc267d0e45984611f1 ""
-  "kapitel/AR_in_der_Industrie_Stand_der_Technik.tex" 1681714223 1778 042f7d62e35d4625ef5ba89ff8b20d15 ""
+  "c:/Git/Textsatzsysteme/main.tex" 1686583481 1845 c4148b6f39262c0b0f9ff3ad0ee3715f ""
+  "kapitel/AR_in_der_Industrie_Stand_der_Technik.tex" 1686594464 2770 cfe91736315baef60b4c300f56d7322a ""
   "kapitel/Einführung.tex" 1686485259 950 622d4b612cf1f3995cef016e2cfea542 ""
   "kapitel/Fazit.tex" 1686480006 2121 216ae655223a2fe6ea22a1cadc2cbf0e ""
-  "kapitel/Grundlagen_der_AR.tex" 1686561323 8872 c94f3a282742aa9c276b6dac092502af ""
+  "kapitel/Grundlagen_der_AR.tex" 1686580660 8153 1ef7d8bb7ab261fc2531c5a0f441c333 ""
   "kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex" 1686480006 2856 cdc3e2396584817afd7b2589abf42e78 ""
-  "kapitel/Literaturverzeichnis.tex" 1681713170 32 8214c1d5528df6ffcbe887436791024f ""
   "kapitel/Potenzial von AR für neue Geschäftsmodelle.tex" 1681915329 4143 caba39aa9e1dc639330ce3fbdaa36edd ""
-  "kapitel/Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex" 1681915329 1932 fa0a6078bb10c29b10691922ddca48b6 ""
-  "kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex" 1686480006 3112 0cc3afdc94bdb2c729a98726592de8a4 ""
-  "main.aux" 1686561326 3007 56368da5b5351f84806f91d17c381591 "pdflatex"
-  "main.bbl" 1686556062 486 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.run.xml" 1686561326 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
-  "main.tex" 1686556042 1904 53a7eafee10c76fc267d0e45984611f1 ""
+  "kapitel/Research_Areas.tex" 1686573773 1754 9328940a42f87fca7b49435e649f2524 ""
+  "kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex" 1686574476 3073 e27551067fdf05c7dc7e490e8e18b335 ""
+  "main.aux" 1686594468 3348 5b1a84bb8121c13c16425e249490b33f "pdflatex"
+  "main.bbl" 1686592557 9568 bf72d7e5febd854c16df0a8544a6eceb "biber main"
+  "main.run.xml" 1686594468 2379 d2e87e093772c7102be7a2bc7823a8da "pdflatex"
+  "main.tex" 1686583481 1845 c4148b6f39262c0b0f9ff3ad0ee3715f ""
   (generated)
   "main.aux"
   "main.bcf"

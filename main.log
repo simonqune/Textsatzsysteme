@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  12 JUN 2023 11:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  12 JUN 2023 20:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -592,7 +592,7 @@ Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 2176
 1: subsection
 
 Package scrlayer-scrpage Warning: replacing deprecated \clearscrheadfoot by
-(scrlayer-scrpage)                \clearpairofpagestyles on input line 34.
+(scrlayer-scrpage)                \clearpairofpagestyles on input line 35.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
@@ -600,70 +600,70 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count424
 \@quotereset=\count425
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 48.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 49.
 (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 49.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <5> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <7> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <8> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <9> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <11> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <11> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <17> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <20> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <20> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <24> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <24> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 48.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 49.
 
 -- Lines per column: 56 (exact).
 (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -715,15 +715,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 48.
-Package biblatex Info: Reference segment=0 on input line 48.
+Package biblatex Info: Reference section=0 on input line 49.
+Package biblatex Info: Reference segment=0 on input line 49.
  (kapitel/Einführung.tex
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
 (Font)              Font shape `T1/lmr/m/sc' tried instead on input line 1.
 
 ) (kapitel/Grundlagen_der_AR.tex
-Underfull \hbox (badness 1701) in paragraph at lines 51--58
+Underfull \hbox (badness 1701) in paragraph at lines 52--59
 []\T1/lmss/m/n/10 Die Dar-stel-lung der AR-Inhalte kann auf ver-schie-de-
  []
 
@@ -731,15 +731,29 @@ Underfull \hbox (badness 1701) in paragraph at lines 51--58
 
 
 ]
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 88.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 86.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 88.
+(Font)              <7> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 88.
-) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex) (kapitel/Potenzial von AR für neue Geschäftsmodelle.tex [2]) (kapitel/Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex [3]) (kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex) (kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex [4]) (kapitel/Fazit.tex) (kapitel/Literaturverzeichnis.tex)
+(Font)              <5> on input line 86.
+) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex [2]
+
+kapitel/AR_in_der_Industrie_Stand_der_Technik.tex:37: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \\F
+        orschung
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (kapitel/Research_Areas.tex) (kapitel/Potenzial von AR für neue Geschäftsmodelle.tex [3]) (kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex) (kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex [4]) (kapitel/Fazit.tex)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -752,20 +766,28 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 [5] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16014 strings out of 475385
- 339003 string characters out of 2776908
- 1184413 words of memory out of 3000000
- 37113 multiletter control sequences out of 15000+600000
+ 16234 strings out of 475385
+ 343350 string characters out of 2776908
+ 1183400 words of memory out of 3000000
+ 37336 multiletter control sequences out of 15000+600000
  663837 words of font info for 130 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  94i,19n,92p,700b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
-Output written on main.pdf (5 pages, 212836 bytes).
+Output written on main.pdf (5 pages, 215939 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

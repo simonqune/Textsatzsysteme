@@ -18,7 +18,8 @@
 %Literatur anpassen
 \usepackage[
 	backend=biber,
-	style=numeric-verb % numeric-verb, numeric-comb
+	style=numeric-verb,
+	sorting=none % numeric-verb, numeric-comb
 ]{biblatex}
 \addbibresource{ref/ref_liste.bib}
 
@@ -53,11 +54,10 @@
 \input{kapitel/Einführung}
 \input{kapitel/Grundlagen_der_AR}
 \input{kapitel/AR_in_der_Industrie_Stand_der_Technik}
+\input{kapitel/Research_Areas}
 \input{kapitel/Potenzial von AR für neue Geschäftsmodelle} 
-\input{kapitel/Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie}
 \input{kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie}
 \input{kapitel/Zukunftsausblick und Potenziale von AR in der Industrie}
 \input{kapitel/Fazit}
-\input{kapitel/Literaturverzeichnis}
-
+\printbibliography
 \end{document}

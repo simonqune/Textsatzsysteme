@@ -789,6 +789,13 @@ INPUT kapitel\AR_in_der_Industrie_Stand_der_Technik.tex
 INPUT .\kapitel\AR_in_der_Industrie_Stand_der_Technik.tex
 INPUT .\kapitel\AR_in_der_Industrie_Stand_der_Technik.tex
 INPUT kapitel\AR_in_der_Industrie_Stand_der_Technik.tex
+INPUT .\kapitel\Research_Areas.tex
+INPUT .\kapitel\Research_Areas.tex
+INPUT .\kapitel\Research_Areas.tex
+INPUT kapitel\Research_Areas.tex
+INPUT .\kapitel\Research_Areas.tex
+INPUT .\kapitel\Research_Areas.tex
+INPUT kapitel\Research_Areas.tex
 INPUT .\kapitel\Potenzial von AR für neue Geschäftsmodelle.tex
 INPUT .\kapitel\Potenzial von AR für neue Geschäftsmodelle.tex
 INPUT .\kapitel\Potenzial von AR für neue Geschäftsmodelle.tex
@@ -796,13 +803,6 @@ INPUT kapitel\Potenzial von AR für neue Geschäftsmodelle.tex
 INPUT .\kapitel\Potenzial von AR für neue Geschäftsmodelle.tex
 INPUT .\kapitel\Potenzial von AR für neue Geschäftsmodelle.tex
 INPUT kapitel\Potenzial von AR für neue Geschäftsmodelle.tex
-INPUT .\kapitel\Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex
-INPUT .\kapitel\Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex
-INPUT .\kapitel\Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex
-INPUT kapitel\Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex
-INPUT .\kapitel\Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex
-INPUT .\kapitel\Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex
-INPUT kapitel\Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie.tex
 INPUT .\kapitel\Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex
 INPUT .\kapitel\Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex
 INPUT .\kapitel\Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex
@@ -824,13 +824,6 @@ INPUT kapitel\Fazit.tex
 INPUT .\kapitel\Fazit.tex
 INPUT .\kapitel\Fazit.tex
 INPUT kapitel\Fazit.tex
-INPUT .\kapitel\Literaturverzeichnis.tex
-INPUT .\kapitel\Literaturverzeichnis.tex
-INPUT .\kapitel\Literaturverzeichnis.tex
-INPUT kapitel\Literaturverzeichnis.tex
-INPUT .\kapitel\Literaturverzeichnis.tex
-INPUT .\kapitel\Literaturverzeichnis.tex
-INPUT kapitel\Literaturverzeichnis.tex
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
