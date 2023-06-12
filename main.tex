@@ -1,6 +1,7 @@
 %%%%%%%%Präambel%%%%%%%%%%%%
 
-\documentclass[journal, twoside]{IEEEtran}
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
 %immer rechts kapitel beginnen
 
 %Default-einstellungen für das Dokument
@@ -8,6 +9,11 @@
 \usepackage[T1]{fontenc}	%Schriftcodierung
 \usepackage[utf8]{inputenc}	%Dateicodierung
 \usepackage[ngerman]{babel} %Sprachpaket(Silbentrennung,überschriften, Abbildungen)
+\usepackage{graphicx}
+\usepackage{lmodern} %Vektorschrift
+\usepackage{sansmath}
+\usepackage{blindtext}
+\usepackage{svg}
 
 %Literatur anpassen
 \usepackage[
@@ -17,9 +23,7 @@
 \addbibresource{ref/ref_liste.bib}
 
 %Schriftanpassungen
-\usepackage{lmodern} %Vektorschrift
 \renewcommand{\familydefault}{\sfdefault} %serifenlose Schrift
-\usepackage{sansmath}
 \sansmath			%Aktivieren von Paket "Sansmath"
 
 \usepackage[
@@ -33,19 +37,21 @@
 \ofoot[\pagemark]{\pagemark} %Seitenzahl in Fußzeile außen
 
 %wichtige Pakete
-\usepackage{graphicx}
 \graphicspath{{bilder/}{}}  %Pfad zu den Bildern. mehrere pfade mit {{}{}{}} 
 
 \title{ Wie kann der Einsatz von Augmented Reality in der Industrie zu neuen Geschäftsmodellen führen?}
 
 \author{{\Large Simon Kuhn}}
-\usepackage{blindtext}
 
 
 %%%%%%%DOKUMENT%%%%%%%%%%%%%
 \begin{document}
 \maketitle
-\input{kapitel/Einleitung}
+\begin{abstract}
+	\blindtext
+\end{abstract}
+\input{kapitel/Einführung}
+\input{kapitel/Grundlagen_der_AR}
 \input{kapitel/AR_in_der_Industrie_Stand_der_Technik}
 \input{kapitel/Potenzial von AR für neue Geschäftsmodelle} 
 \input{kapitel/Praxisbeispiele für AR-gestützte Geschäftsmodelle in der Industrie}

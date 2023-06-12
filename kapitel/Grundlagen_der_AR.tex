@@ -1,0 +1,142 @@
+\section{Technische Grundlagen der Augmented Reality}
+Die Grundlage eines funktionsfähigen Augmented Reality-Systems bilden
+verschiedene technische Systeme und Verfahren.
+
+\subsection{Sensoren und Erfassungstechnologien}
+
+Um virtuelle Inhalte nahtlos in die reale Welt zu integrieren, ist eine präzise
+Bestimmung der Position des AR-Systems im Raum erforderlich. Dazu werden
+verschiedene Sensoren und Erfassungstechnologien eingesetzt, die die Umgebung
+analysieren und die Position sowie Ausrichtung des AR-Geräts ermitteln.
+Optische Tracking-Verfahren wie Infrarot-Sensoren, 3D-Kameras und herkömmliche
+Kameras im sichtbaren Lichtspektrum werden aufgrund ihrer geringen Kosten und
+hohen Verfügbarkeit häufig verwendet. Sie erfassen visuelle Informationen aus
+der Umgebung und dienen zur Erkennung von Markern oder speziellen Merkmalen, um
+die Position und Ausrichtung des AR-Geräts präzise zu bestimmen. Insbesondere
+3D-Kamerasysteme, die auf structured Light oder Time of Flight basieren, sind
+in den letzten Jahren immer beliebter geworden. Mithilfe fortschrittlicher
+Bildverarbeitungsalgorithmen erfolgt eine genaue Erkennung und Verfolgung
+visueller Elemente, um virtuelle Objekte in Echtzeit in die reale Welt zu
+integrieren.
+
+Ein weiterer wichtiger Bestandteil im Bereich der AR sind Inertiale
+Messeinheiten (IMUs). Diese Sensoren messen Beschleunigung,
+Winkelgeschwindigkeit und magnetische Felder. Durch die Integration von IMUs in
+AR-Geräte können Bewegungen und Rotationen des Geräts erfasst und verfolgt
+werden, um die relative Position im Raum zu bestimmen. IMUs sind unempfindlich
+gegenüber äußeren Störeinflüssen und erfordern keine direkte Sichtlinie zu
+anderen Sensoren. Es besteht jedoch das Problem, dass sich die gemessene
+Position und Ausrichtung im Laufe der Zeit verschiebt und von der tatsächlichen
+Position abweicht. Daher werden IMUs häufig in Kombination mit anderen Sensoren
+wie 3D-Kameras verwendet, um präzisere Ergebnisse zu erzielen.
+
+\subsection{Datenverarbeitung und -darstellung}
+
+Die Datenverarbeitung und Darstellung spielen eine entscheidende Rolle im
+Bereich der Augmented Reality (AR). Um eine nahtlose Integration von virtuellen
+Inhalten in die reale Welt zu ermöglichen, müssen die erfassten Daten zunächst
+verarbeitet und interpretiert werden. Anschließend erfolgt die Darstellung der
+AR-Inhalte in einer für den Benutzer verständlichen Form. Dabei ist eine
+Kalibrierung der Tracking-Systeme, wie beispielsweise der Kamera, erforderlich,
+um genaue Positionierungsinformationen zu erhalten.
+
+Die Darstellung der AR-Inhalte erfolgt in Echtzeit, um eine immersive und
+interaktive Erfahrung zu gewährleisten. Hierbei spielen Grafiktechnologien wie
+Computergrafik, Rendering-Algorithmen und Shading eine wichtige Rolle. Die
+virtuellen Objekte müssen realistisch und überzeugend in die reale Umgebung
+integriert werden. Dies erfordert die Berücksichtigung von Aspekten wie
+Beleuchtung, Schatten und Perspektive, um eine konsistente und immersive
+AR-Erfahrung zu schaffen.
+
+Die Darstellung der AR-Inhalte kann auf verschiedene Arten erfolgen. Bei der
+video-gestützten Variante wird die Kamera des AR-Geräts verwendet, um eine
+Echtzeit-Videoaufnahme der Umgebung zu erfassen und auf dem Display
+darzustellen. Die AR-Inhalte werden dabei durch Bildverarbeitungstechniken in
+die realen Aufnahmen integriert. Bei der optischen Variante wird ein
+transparentes Display verwendet, um die virtuellen Inhalte direkt in das
+Sichtfeld des Benutzers zu projizieren.
+
+Eine andere Variante sind optische, durchsichtige AR-Displays, die auf
+halbdurchlässigen Spiegeln basieren. Der Benutzer kann dabei die reale Welt
+durch den halbdurchlässigen Spiegel sehen und gleichzeitig die reflektierte
+Anzeige der AR-Inhalte wahrnehmen. Ein bekanntes Anwendungsbeispiel für diese
+Technologie sind Head-up-Displays in Autos.
+
+Eine weitere Variante nutzt einen Projektor, um Texturen oder Bilder auf
+bestehende Objekte zu projizieren und so die realen Objekte zu erweitern.
+
+Diese verschiedenen Technologien der AR-Darstellung können in verschiedenen
+Formen für den Benutzer zugänglich gemacht werden. Häufig geschieht dies in
+Form von sogenannten Head-Mounted-Displays, wie beispielsweise AR-Brillen.
+Diese ermöglichen es dem Benutzer, die AR-Inhalte direkt vor seinen Augen
+wahrzunehmen und in die reale Welt einzubetten.
+
+\subsection{Benutzerschnittstellen und Interaktion}
+Die Benutzerschnittstellen und Interaktion spielen eine zentrale Rolle in der
+Augmented Reality (AR) und ermöglichen es den Benutzern, mit den virtuellen
+Inhalten und der erweiterten Realität zu interagieren. Eine effektive
+Benutzerschnittstelle und Interaktion tragen maßgeblich dazu bei, dass
+AR-Anwendungen intuitiv bedienbar, benutzerfreundlich und immersiv sind.
+
+Eine der gängigsten Formen der Benutzerschnittstelle in AR-Anwendungen ist das
+Head-Mounted Display (HMD), das dem Benutzer ermöglicht, die virtuellen Inhalte
+direkt vor seinen Augen zu sehen. Das HMD kann mit Sensoren ausgestattet sein,
+um die Kopfbewegungen des Benutzers zu verfolgen und so eine natürliche und
+immersive Darstellung der virtuellen Objekte zu ermöglichen. Die Interaktion
+mit den virtuellen Inhalten kann über verschiedene Eingabemethoden erfolgen.
+\begin{itemize}
+    \item 2D User Interfaces: Bei dieser Form der Interaktion,
+          werden physische Knöpfe und Tasten verwendet, um mit den virtuellen Inhalten zu interagieren.
+          Dies kann beispielsweise das Auswählen von Objekten,
+          das Ausführen von Aktionen oder das Navigieren in Menüs umfassen.
+          Auch Touch eingaben sind hierbei möglich.
+
+    \item 3D User Interfaces: Hierbei werden 3D Eingabemethoden verwendet,
+          um Manipulationen an Objekten mit 6 Freiheitsgraden zu ermöglichen.
+          Dies kann beispielsweise das Bewegen, Drehen und Skalieren von Objekten umfassen.
+          Die Eingabegeräte selbst können dabei unterschiedliche Formen, wie 3D-Mäuse oder Stäbe, annehmen.
+
+    \item Gestensteuerung: Bei dieser fortschrittlichen Form der Interaktion, werden
+          Gesten und Handbewegungen verwendet, um mit den virtuellen Inhalten zu
+          interagieren. Dies kann beispielsweise das Zeigen auf Objekte, das Ziehen und
+          Drehen von Objekten oder das Ausführen von Gesten wie Pinch-to-Zoom umfassen.
+          Auch Eye-Tracking ist hierbei möglich, um Objekte durch das Ansehen
+          auszuwählen.
+
+    \item Sprachbefehle: Auch Sprachbefehle können genutz werden, um mit Objekten im Raum
+          zu interagieren. Benutzer können bestimmte Sprachbefehle verwenden, um Aktionen
+          auszuführen, Objekte zu steuern oder Informationen abzurufen. Diese Art der
+          Interaktion kann besonders nützlich sein, wenn die Hände des Benutzers
+          beschäftigt sind.
+\end{itemize}
+
+Controller bieten dem Benutzer eine physische Schnittstelle zur Interaktion mit
+den virtuellen Objekten. Mit den Controllern können Benutzer Objekte auswählen,
+manipulieren und Aktionen in der AR-Umgebung ausführen. Gestensteuerung
+ermöglicht es den Benutzern, Handbewegungen und Gesten zu verwenden, um mit den
+virtuellen Objekten zu interagieren. Dies kann beispielsweise das Zeigen auf
+Objekte, das Ziehen und Drehen von Objekten oder das Ausführen von Gesten wie
+Pinch-to-Zoom umfassen.
+
+Sprachbefehle bieten eine weitere Möglichkeit der Interaktion in
+AR-Anwendungen. Benutzer können bestimmte Sprachbefehle verwenden, um Aktionen
+auszuführen, Objekte zu steuern oder Informationen abzurufen. Diese Art der
+Interaktion kann besonders nützlich sein, wenn die Hände des Benutzers
+anderweitig beschäftigt sind oder wenn eine berührungslose Interaktion
+gewünscht wird.
+
+Eye-Tracking ist eine fortschrittliche Technologie, die die Blickrichtung des
+Benutzers erfasst. Durch das Erfassen der Blickrichtung kann die AR-Anwendung
+den Fokus des Benutzers erkennen und entsprechend reagieren. Dies ermöglicht
+beispielsweise die Aktivierung von Funktionen oder das Auslösen von Aktionen
+durch das Ansehen bestimmter Bereiche oder Objekte in der AR-Umgebung.
+
+Die Benutzerschnittstellen und Interaktionsmethoden in der AR werden
+kontinuierlich weiterentwickelt, um die Benutzererfahrung zu verbessern und
+neue Möglichkeiten der Interaktion zu erschließen. Durch die Integration von
+fortschrittlichen Technologien wie maschinellem Lernen und Künstlicher
+Intelligenz wird es möglich, natürlichere und kontextbezogene Interaktionen zu
+ermöglichen. Die Benutzerschnittstellen und Interaktionsmethoden sind
+entscheidend, um AR-Anwendungen zugänglich, benutzerfreundlich und ansprechend
+zu gestalten und den Benutzern ein immersives und interaktives Erlebnis zu
+bieten.
