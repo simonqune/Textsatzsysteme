@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  12 JUN 2023 20:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  13 JUN 2023 09:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -739,10 +739,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 86.
-) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex) (kapitel/Research_Areas.tex [2]) (kapitel/Potenzial von AR für neue Geschäftsmodelle.tex
-Underfull \vbox (badness 1048) has occurred while \output is active []
+) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex) (kapitel/Research_Areas.tex [2]
+Underfull \hbox (badness 3375) in paragraph at lines 15--24
+[]\T1/lmss/m/n/10 F�r die zu-ver-l�s-si-ge Outdoor-Augmented-Reality sind
+ []
 
- [3]) (kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex) (kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex [4]) (kapitel/Fazit.tex)
+[3] [4]) (kapitel/Potenzial von AR für neue Geschäftsmodelle.tex) (kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex [5]) (kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex) (kapitel/Fazit.tex [6])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -754,23 +756,25 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5] (main.aux)
+[7
+
+] (main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16234 strings out of 475385
- 343350 string characters out of 2776908
+ 16240 strings out of 475385
+ 343428 string characters out of 2776908
  1183725 words of memory out of 3000000
- 37336 multiletter control sequences out of 15000+600000
+ 37342 multiletter control sequences out of 15000+600000
  663837 words of font info for 130 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  94i,19n,92p,700b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
-Output written on main.pdf (5 pages, 215944 bytes).
+Output written on main.pdf (7 pages, 225340 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

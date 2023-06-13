@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1686594507 -1
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1686639821 -1
   "./ref/ref_liste.bib" 1686592465 2241 b3e4bcbb7378101a3649acec1073a910 ""
-  "main.bcf" 1686594506 106717 07c63a4aefccf381144459339d375ee8 "pdflatex"
+  "main.bcf" 1686639821 106717 07c63a4aefccf381144459339d375ee8 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1686594505 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1686594507 0
+["pdflatex"] 1686639820 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1686639821 0
   "C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686556022 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/kuhns/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1680337344 10788009 6bdcefacb10213bc9a84c5cbc258c069 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -141,11 +141,11 @@
   "kapitel/Grundlagen_der_AR.tex" 1686580660 8153 1ef7d8bb7ab261fc2531c5a0f441c333 ""
   "kapitel/Herausforderungen und Lösungsansätze für den Einsatz von AR in der Industrie.tex" 1686480006 2856 cdc3e2396584817afd7b2589abf42e78 ""
   "kapitel/Potenzial von AR für neue Geschäftsmodelle.tex" 1681915329 4143 caba39aa9e1dc639330ce3fbdaa36edd ""
-  "kapitel/Research_Areas.tex" 1686573773 1754 9328940a42f87fca7b49435e649f2524 ""
+  "kapitel/Research_Areas.tex" 1686639819 11812 2714fd3250186b96fc2b32e3c060bc64 ""
   "kapitel/Zukunftsausblick und Potenziale von AR in der Industrie.tex" 1686574476 3073 e27551067fdf05c7dc7e490e8e18b335 ""
-  "main.aux" 1686594506 3351 2a1b3c6008fe8c99ed4359569186941e "pdflatex"
+  "main.aux" 1686639821 3807 67c831d6d7bd21122d08ec17c3c8778e "pdflatex"
   "main.bbl" 1686592557 9568 bf72d7e5febd854c16df0a8544a6eceb "biber main"
-  "main.run.xml" 1686594506 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
+  "main.run.xml" 1686639821 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
   "main.tex" 1686583481 1845 c4148b6f39262c0b0f9ff3ad0ee3715f ""
   (generated)
   "main.aux"
