@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  14 JUN 2023 19:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  14 JUN 2023 23:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -405,18 +405,53 @@ File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@bigbuffer@items=\count307
 ) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks33
+\float@box=\box57
+\@float@everytoks=\toks34
+\@floatcapt=\box58
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen188
+\captionmargin=\dimen189
+\caption@leftmargin=\dimen190
+\caption@rightmargin=\dimen191
+\caption@width=\dimen192
+\caption@indent=\dimen193
+\caption@parindent=\dimen194
+\caption@hangindent=\dimen195
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1176.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count309
+\c@continuedfloat=\count310
+Package caption Info: float package is loaded.
+)
+Package caption Info: Option `figurename' requires the `newfloat' package on input line 23.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count308
+\etb@tempcnta=\count311
 ) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count309
+\lrq@indent=\count312
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
@@ -425,49 +460,49 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count310
-\c@listtotal=\count311
-\c@listcount=\count312
-\c@liststart=\count313
-\c@liststop=\count314
-\c@citecount=\count315
-\c@citetotal=\count316
-\c@multicitecount=\count317
-\c@multicitetotal=\count318
-\c@instcount=\count319
-\c@maxnames=\count320
-\c@minnames=\count321
-\c@maxitems=\count322
-\c@minitems=\count323
-\c@citecounter=\count324
-\c@maxcitecounter=\count325
-\c@savedcitecounter=\count326
-\c@uniquelist=\count327
-\c@uniquename=\count328
-\c@refsection=\count329
-\c@refsegment=\count330
-\c@maxextratitle=\count331
-\c@maxextratitleyear=\count332
-\c@maxextraname=\count333
-\c@maxextradate=\count334
-\c@maxextraalpha=\count335
-\c@abbrvpenalty=\count336
-\c@highnamepenalty=\count337
-\c@lownamepenalty=\count338
-\c@maxparens=\count339
-\c@parenlevel=\count340
-\blx@tempcnta=\count341
-\blx@tempcntb=\count342
-\blx@tempcntc=\count343
-\c@blx@maxsection=\count344
-\blx@maxsegment@0=\count345
-\blx@notetype=\count346
-\blx@parenlevel@text=\count347
-\blx@parenlevel@foot=\count348
-\blx@sectionciteorder@0=\count349
-\blx@sectionciteorderinternal@0=\count350
-\blx@entrysetcounter=\count351
-\blx@biblioinstance=\count352
+\c@tabx@nest=\count313
+\c@listtotal=\count314
+\c@listcount=\count315
+\c@liststart=\count316
+\c@liststop=\count317
+\c@citecount=\count318
+\c@citetotal=\count319
+\c@multicitecount=\count320
+\c@multicitetotal=\count321
+\c@instcount=\count322
+\c@maxnames=\count323
+\c@minnames=\count324
+\c@maxitems=\count325
+\c@minitems=\count326
+\c@citecounter=\count327
+\c@maxcitecounter=\count328
+\c@savedcitecounter=\count329
+\c@uniquelist=\count330
+\c@uniquename=\count331
+\c@refsection=\count332
+\c@refsegment=\count333
+\c@maxextratitle=\count334
+\c@maxextratitleyear=\count335
+\c@maxextraname=\count336
+\c@maxextradate=\count337
+\c@maxextraalpha=\count338
+\c@abbrvpenalty=\count339
+\c@highnamepenalty=\count340
+\c@lownamepenalty=\count341
+\c@maxparens=\count342
+\c@parenlevel=\count343
+\blx@tempcnta=\count344
+\blx@tempcntb=\count345
+\blx@tempcntc=\count346
+\c@blx@maxsection=\count347
+\blx@maxsegment@0=\count348
+\blx@notetype=\count349
+\blx@parenlevel@text=\count350
+\blx@parenlevel@foot=\count351
+\blx@sectionciteorder@0=\count352
+\blx@sectionciteorderinternal@0=\count353
+\blx@entrysetcounter=\count354
+\blx@biblioinstance=\count355
 \labelnumberwidth=\skip53
 \labelalphawidth=\skip54
 \biblabelsep=\skip55
@@ -479,9 +514,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language80
-\c@mincomprange=\count353
-\c@maxcomprange=\count354
-\c@mincompwidth=\count355
+\c@mincomprange=\count356
+\c@maxcomprange=\count357
+\c@mincompwidth=\count358
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -491,74 +526,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric-verb.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count356
-\c@savedafterword=\count357
-\c@annotator=\count358
-\c@savedannotator=\count359
-\c@author=\count360
-\c@savedauthor=\count361
-\c@bookauthor=\count362
-\c@savedbookauthor=\count363
-\c@commentator=\count364
-\c@savedcommentator=\count365
-\c@editor=\count366
-\c@savededitor=\count367
-\c@editora=\count368
-\c@savededitora=\count369
-\c@editorb=\count370
-\c@savededitorb=\count371
-\c@editorc=\count372
-\c@savededitorc=\count373
-\c@foreword=\count374
-\c@savedforeword=\count375
-\c@holder=\count376
-\c@savedholder=\count377
-\c@introduction=\count378
-\c@savedintroduction=\count379
-\c@namea=\count380
-\c@savednamea=\count381
-\c@nameb=\count382
-\c@savednameb=\count383
-\c@namec=\count384
-\c@savednamec=\count385
-\c@translator=\count386
-\c@savedtranslator=\count387
-\c@shortauthor=\count388
-\c@savedshortauthor=\count389
-\c@shorteditor=\count390
-\c@savedshorteditor=\count391
-\c@labelname=\count392
-\c@savedlabelname=\count393
-\c@institution=\count394
-\c@savedinstitution=\count395
-\c@lista=\count396
-\c@savedlista=\count397
-\c@listb=\count398
-\c@savedlistb=\count399
-\c@listc=\count400
-\c@savedlistc=\count401
-\c@listd=\count402
-\c@savedlistd=\count403
-\c@liste=\count404
-\c@savedliste=\count405
-\c@listf=\count406
-\c@savedlistf=\count407
-\c@location=\count408
-\c@savedlocation=\count409
-\c@organization=\count410
-\c@savedorganization=\count411
-\c@origlocation=\count412
-\c@savedoriglocation=\count413
-\c@origpublisher=\count414
-\c@savedorigpublisher=\count415
-\c@publisher=\count416
-\c@savedpublisher=\count417
-\c@language=\count418
-\c@savedlanguage=\count419
-\c@origlanguage=\count420
-\c@savedoriglanguage=\count421
-\c@pageref=\count422
-\c@savedpageref=\count423
+\c@afterword=\count359
+\c@savedafterword=\count360
+\c@annotator=\count361
+\c@savedannotator=\count362
+\c@author=\count363
+\c@savedauthor=\count364
+\c@bookauthor=\count365
+\c@savedbookauthor=\count366
+\c@commentator=\count367
+\c@savedcommentator=\count368
+\c@editor=\count369
+\c@savededitor=\count370
+\c@editora=\count371
+\c@savededitora=\count372
+\c@editorb=\count373
+\c@savededitorb=\count374
+\c@editorc=\count375
+\c@savededitorc=\count376
+\c@foreword=\count377
+\c@savedforeword=\count378
+\c@holder=\count379
+\c@savedholder=\count380
+\c@introduction=\count381
+\c@savedintroduction=\count382
+\c@namea=\count383
+\c@savednamea=\count384
+\c@nameb=\count385
+\c@savednameb=\count386
+\c@namec=\count387
+\c@savednamec=\count388
+\c@translator=\count389
+\c@savedtranslator=\count390
+\c@shortauthor=\count391
+\c@savedshortauthor=\count392
+\c@shorteditor=\count393
+\c@savedshorteditor=\count394
+\c@labelname=\count395
+\c@savedlabelname=\count396
+\c@institution=\count397
+\c@savedinstitution=\count398
+\c@lista=\count399
+\c@savedlista=\count400
+\c@listb=\count401
+\c@savedlistb=\count402
+\c@listc=\count403
+\c@savedlistc=\count404
+\c@listd=\count405
+\c@savedlistd=\count406
+\c@liste=\count407
+\c@savedliste=\count408
+\c@listf=\count409
+\c@savedlistf=\count410
+\c@location=\count411
+\c@savedlocation=\count412
+\c@organization=\count413
+\c@savedorganization=\count414
+\c@origlocation=\count415
+\c@savedoriglocation=\count416
+\c@origpublisher=\count417
+\c@savedorigpublisher=\count418
+\c@publisher=\count419
+\c@savedpublisher=\count420
+\c@language=\count421
+\c@savedlanguage=\count422
+\c@origlanguage=\count423
+\c@savedoriglanguage=\count424
+\c@pageref=\count425
+\c@savedpageref=\count426
 \shorthandwidth=\skip61
 \shortjournalwidth=\skip62
 \shortserieswidth=\skip63
@@ -582,19 +617,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
-\c@textcitecount=\count424
-\c@textcitetotal=\count425
-\c@textcitemaxnames=\count426
-\c@biburlbigbreakpenalty=\count427
-\c@biburlbreakpenalty=\count428
-\c@biburlnumpenalty=\count429
-\c@biburlucpenalty=\count430
-\c@biburllcpenalty=\count431
+\c@textcitecount=\count427
+\c@textcitetotal=\count428
+\c@textcitemaxnames=\count429
+\c@biburlbigbreakpenalty=\count430
+\c@biburlbreakpenalty=\count431
+\c@biburlnumpenalty=\count432
+\c@biburlucpenalty=\count433
+\c@biburllcpenalty=\count434
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count432
+\c@smartand=\count435
 )
 Package biblatex Info: Trying to load bibliography style 'numeric-verb'...
 Package biblatex Info: ... file 'numeric-verb.bbx' found.
@@ -608,8 +643,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count433
-\c@bbx:relatedtotal=\count434
+\c@bbx:relatedcount=\count436
+\c@bbx:relatedtotal=\count437
 )))
 Package biblatex Info: Trying to load citation style 'numeric-verb'...
 Package biblatex Info: ... file 'numeric-verb.cbx' found.
@@ -637,8 +672,8 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2022-09-28 L3 programming layer (loader) 
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count435
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count438
+\l__pdf_internal_box=\box59
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2022-09-28 L3 programming layer (loader) 
@@ -664,93 +699,93 @@ Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 2176
 1: subsection
 
 Package scrlayer-scrpage Warning: replacing deprecated \clearscrheadfoot by
-(scrlayer-scrpage)                \clearpairofpagestyles on input line 37.
+(scrlayer-scrpage)                \clearpairofpagestyles on input line 43.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count436
-\@quotereset=\count437
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 50.
+\@quotelevel=\count439
+\@quotereset=\count440
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 56.
 (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 56.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <5> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <7> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <8> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <9> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <11> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <11> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <17> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <20> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <20> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <24> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <24> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 56.
 
 -- Lines per column: 56 (exact).
 (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count438
-\scratchdimen=\dimen188
-\scratchbox=\box58
-\nofMPsegments=\count439
-\nofMParguments=\count440
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count441
-\MPscratchDim=\dimen189
-\MPnumerator=\count442
-\makeMPintoPDFobject=\count443
-\everyMPtoPDFconversion=\toks34
+\scratchcounter=\count441
+\scratchdimen=\dimen196
+\scratchbox=\box60
+\nofMPsegments=\count442
+\nofMParguments=\count443
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count444
+\MPscratchDim=\dimen197
+\MPnumerator=\count445
+\makeMPintoPDFobject=\count446
+\everyMPtoPDFconversion=\toks36
 ) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
@@ -765,6 +800,9 @@ Package grfext Info: Graphics extension search list:
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package newfloat Info: `float' package detected.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
@@ -787,23 +825,18 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 50.
-Package biblatex Info: Reference segment=0 on input line 50.
+Package biblatex Info: Reference section=0 on input line 56.
+Package biblatex Info: Reference segment=0 on input line 56.
  (kapitel/Einführung.tex
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
 (Font)              Font shape `T1/lmr/m/sc' tried instead on input line 1.
 
-) (kapitel/Grundlagen_der_AR.tex
-Underfull \hbox (badness 1701) in paragraph at lines 52--59
-[]\T1/lmss/m/n/10 Die Dar-stel-lung der AR-Inhalte kann auf ver-schie-de-
- []
-
-[1{C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+) (kapitel/Grundlagen_der_AR.tex [1{C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
 ]
-Package svg Info: Last page of `./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf' is 5 on input line 62.
+Package svg Info: Last page of `./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf' is 5 on input line 65.
  (svg-inkscape/strucutre_video_based_AR_svg-tex.pdf_tex
 <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, id=16, page=1, 1064.16321pt x 529.66632pt>
 File: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf Graphic file (type pdf)
@@ -843,7 +876,7 @@ File: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf Graphic file (type pdf
 Package pdftex.def Info: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf , page5 used on input line 70.
 (pdftex.def)             Requested size: 176.39923pt x 87.79527pt.
 )
-Package svg Info: Last page of `./svg-inkscape/optical_see_trough_display_svg-tex.pdf' is 4 on input line 75.
+Package svg Info: Last page of `./svg-inkscape/optical_see_trough_display_svg-tex.pdf' is 4 on input line 82.
  (svg-inkscape/optical_see_trough_display_svg-tex.pdf_tex
 <./svg-inkscape/optical_see_trough_display_svg-tex.pdf, id=22, page=1, 1098.03976pt x 743.49687pt>
 File: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf Graphic file (type pdf)
@@ -865,7 +898,7 @@ File: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf Graphic file (type p
 <use ./svg-inkscape/optical_see_trough_display_svg-tex.pdf, page 4>
 Package pdftex.def Info: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf , page4 used on input line 67.
 (pdftex.def)             Requested size: 176.39923pt x 119.4384pt.
-)) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex [2 <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf> <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf
+) [2 <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf> <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf
@@ -889,15 +922,15 @@ pdfTeX warning: pdflatex (file ./svg-inkscape/optical_see_trough_display_svg-tex
 > <./svg-inkscape/optical_see_trough_display_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/optical_see_trough_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]) (kapitel/Research_Areas.tex [3]) (kapitel/Potenzial von AR für neue Geschäftsmodelle.tex [4]) (kapitel/Fazit.tex)
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 61.
+>]) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex) (kapitel/Research_Areas.tex [3]) (kapitel/Potenzial von AR für neue Geschäftsmodelle.tex [4]) (kapitel/Fazit.tex)
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 67.
  (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TS1/lmss/m/it' in size <10> not available
-(Font)              Font shape `TS1/lmss/m/sl' tried instead on input line 61.
+(Font)              Font shape `TS1/lmss/m/sl' tried instead on input line 67.
 
-Underfull \hbox (badness 4927) in paragraph at lines 62--62
+Underfull \hbox (badness 4927) in paragraph at lines 68--68
 []\T1/lmss/m/n/10 Mark Bil-ling-hurst, Adri-an Clark, Gun Lee u.a.
  []
 
@@ -919,17 +952,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17195 strings out of 475385
- 360370 string characters out of 2776908
- 1201564 words of memory out of 3000000
- 38253 multiletter control sequences out of 15000+600000
+ 18735 strings out of 475385
+ 390414 string characters out of 2776908
+ 1223050 words of memory out of 3000000
+ 39780 multiletter control sequences out of 15000+600000
  665951 words of font info for 139 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 94i,19n,107p,1082b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
-Output written on main.pdf (6 pages, 251827 bytes).
+ 94i,19n,106p,1082b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
+Output written on main.pdf (6 pages, 233090 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  68 words of extra memory for PDF output out of 10000 (max. 10000000)
 

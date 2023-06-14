@@ -1,7 +1,9 @@
 \section{Technische Grundlagen der Augmented Reality}
-Die Grundlage eines funktionsfähigen Augmented Reality-Systems bilden
-verschiedene technische Systeme und Verfahren. Diese lassen sich in folgende
-drei Bereiche unterteilen.
+
+Die Grundlage eines funktionsfähigen Augmented Reality-Systems bildet ein
+vielfältiges Zusammenspiel verschiedener technischer Systeme und Verfahren.
+Diese können grob in folgende drei wesentliche Bereiche unterteilt werden, die
+zusammenarbeiten, um eine nahtlose und immersive AR-Erfahrung zu ermöglichen.
 
 \subsection{Sensoren und Erfassungstechnologien}
 
@@ -31,6 +33,8 @@ Position und Ausrichtung im Laufe der Zeit verschiebt und von der tatsächlichen
 Position abweicht. Daher werden IMUs häufig in Kombination mit anderen Sensoren
 wie 3D-Kameras verwendet, um präzisere Ergebnisse zu erzielen.
 
+UM GPS ERWETERN
+
 \subsection{Datenverarbeitung und -darstellung}
 
 Die Datenverarbeitung und Darstellung spielen eine entscheidende Rolle im
@@ -49,42 +53,50 @@ integriert werden. Dies erfordert die Berücksichtigung von Aspekten wie
 Beleuchtung, Schatten und Perspektive, um eine konsistente und immersive
 AR-Erfahrung zu schaffen.
 
-Die Darstellung der AR-Inhalte kann auf verschiedene Arten erfolgen. Bei der
-video-gestützten Variante wird die Kamera des AR-Geräts verwendet, um eine
-Echtzeit-Videoaufnahme der Umgebung zu erfassen und auf dem Display
-darzustellen. Die AR-Inhalte werden dabei durch Bildverarbeitungstechniken in
-die realen Aufnahmen integriert. Bei der optischen Variante wird ein
-transparentes Display verwendet, um die virtuellen Inhalte direkt in das
-Sichtfeld des Benutzers zu projizieren.
+Es gibt verschiedene Arten, wie die Darstellung der AR-Inhalte erfolgen kann.
+Bei der video-gestützten Variante wird die Kamera des AR-Geräts verwendet, um
+eine Echtzeit-Videoaufnahme der Umgebung zu erfassen und auf dem Display
+anzuzeigen. Die AR-Inhalte werden mithilfe von Bildverarbeitungstechniken in
+die realen Aufnahmen integriert. Der schematische Aufbau eines solchen
+Verfahrens ist in Abbildung \ref{fig:VBAR} dargestellt.
 
-\begin{figure}
+\begin{figure}[h]
       \centering
       \includesvg[width=0.7\columnwidth]{bilder/svg/strucutre_video_based_AR.svg}
-      \caption{Aufbau von Video basierten AR-Displays \cite{billinghurst2015survey}}
+      \caption[width=0.7\columnwidth]{Aufbau von Video basierten AR-Displays \cite{billinghurst2015survey}}
       \label{fig:VBAR}
 \end{figure}
 
-Eine andere Variante sind optische, durchsichtige AR-Displays, die auf
-halbdurchlässigen Spiegeln basieren. Der Benutzer kann dabei die reale Welt
-durch den halbdurchlässigen Spiegel sehen und gleichzeitig die reflektierte
-Anzeige der AR-Inhalte wahrnehmen. Ein bekanntes Anwendungsbeispiel für diese
-Technologie sind Head-up-Displays in Autos.
+Ein weiteres Verfahren, das in Abbildung \ref{fig:OSTAR} dargestellt ist,
+basiert auf optischen, durchsichtigen AR-Displays, die auf halbdurchlässigen
+Spiegeln basieren. Bei dieser Variante kann der Benutzer die reale Welt durch
+den halbdurchlässigen Spiegel sehen und gleichzeitig die reflektierte Anzeige
+der AR-Inhalte wahrnehmen. Ein bekanntes Anwendungsbeispiel für diese
+Technologie sind Head-up-Displays in Autos, bei denen relevante Informationen
+wie Geschwindigkeit oder Navigationshinweise direkt auf die Windschutzscheibe
+projiziert werden. Diese Art der Darstellung ermöglicht es dem Benutzer, die
+AR-Inhalte zu sehen, ohne den Blick von der Straße abwenden zu müssen.
 
-\begin{figure}
+\begin{figure}[h]
       \centering
       \includesvg[width=0.7\columnwidth]{bilder/svg/optical_see_trough_display.svg}
-      \caption{Aufbau von optischen, durchsichtigen AR-Displays \cite{billinghurst2015survey}}
+      \caption[width=0.7\columnwidth]{Aufbau von optischen, durchsichtigen AR-Displays \cite{billinghurst2015survey}}
       \label{fig:OSTAR}
-  \end{figure}
+\end{figure}
 
 Eine weitere Variante nutzt einen Projektor, um Texturen oder Bilder auf
-bestehende Objekte zu projizieren und so die realen Objekte zu erweitern.
+bestehende Objekte zu projizieren und somit die realen Objekte zu erweitern.
+Durch diese Methode werden zusätzliche visuelle Informationen auf die
+Oberfläche der Objekte übertragen, um beispielsweise Anleitungen oder virtuelle
+Beschriftungen darzustellen.
 
-Diese verschiedenen Technologien der AR-Darstellung können in verschiedenen
-Formen für den Benutzer zugänglich gemacht werden. Häufig geschieht dies in
-Form von sogenannten Head-Mounted-Displays, wie beispielsweise AR-Brillen.
-Diese ermöglichen es dem Benutzer, die AR-Inhalte direkt vor seinen Augen
-wahrzunehmen und in die reale Welt einzubetten.
+Diese verschiedenen Technologien der AR-Darstellung können auf verschiedene
+Arten für den Benutzer zugänglich gemacht werden. Eine häufig verwendete Form
+sind sogenannte Head-Mounted-Displays, wie AR-Brillen. Diese ermöglichen es dem
+Benutzer, die AR-Inhalte direkt vor seinen Augen wahrzunehmen und sie nahtlos
+in die reale Welt einzubetten. Durch das Tragen der AR-Brille hat der Benutzer
+die Freiheit, sich in der Umgebung zu bewegen und die AR-Erfahrung ohne
+Einschränkungen zu erleben.
 
 \subsection{Benutzerschnittstellen und Interaktion}
 Die Benutzerschnittstellen und Interaktion spielen eine zentrale Rolle im
