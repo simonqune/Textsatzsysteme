@@ -19,6 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{billinghurst2015survey}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=ebb11475827ce7b6b5609294d4e15d5b}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=397a40f3a8c30fbe20a4682b1610f0e2}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=14f41278656158d26644ead6bce4de74}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gun},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Now Publishers, Inc.}%
+      }
+      \strng{namehash}{6444fb20ca6bfba8754e2223dc38a76c}
+      \strng{fullhash}{6444fb20ca6bfba8754e2223dc38a76c}
+      \strng{bibnamehash}{6444fb20ca6bfba8754e2223dc38a76c}
+      \strng{authorbibnamehash}{6444fb20ca6bfba8754e2223dc38a76c}
+      \strng{authornamehash}{6444fb20ca6bfba8754e2223dc38a76c}
+      \strng{authorfullhash}{6444fb20ca6bfba8754e2223dc38a76c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foundations and Trends{®} in Human--Computer Interaction}
+      \field{number}{2-3}
+      \field{title}{A survey of augmented reality}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{pages}{73\bibrangedash 272}
+      \range{pages}{200}
+    \endentry
     \entry{liu2022probing}{article}{}
       \name{author}{7}{}{%
         {{hash=60e88591d316b99e9f136edb8aead89f}{%
@@ -66,8 +107,8 @@
       \strng{authorbibnamehash}{da6399a198c5ab7d8caf866c9de50343}
       \strng{authornamehash}{da6399a198c5ab7d8caf866c9de50343}
       \strng{authorfullhash}{bce2b8d0b379dfacb91bc14d97ef6a96}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Robotics and Computer-Integrated Manufacturing}
@@ -106,8 +147,8 @@
       \strng{authorbibnamehash}{43787ade7eadf1a93211dc938dda1a96}
       \strng{authornamehash}{43787ade7eadf1a93211dc938dda1a96}
       \strng{authorfullhash}{a983bfafe9adeaebe5ee221d5f853e01}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2006 IEEE/ACM International Symposium on Mixed and Augmented Reality}
@@ -138,8 +179,8 @@
       \strng{authorbibnamehash}{d02f394fc8d42b4d79c4c89a42c2a946}
       \strng{authornamehash}{d02f394fc8d42b4d79c4c89a42c2a946}
       \strng{authorfullhash}{d02f394fc8d42b4d79c4c89a42c2a946}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
@@ -177,8 +218,8 @@
       \strng{authorbibnamehash}{5059fdfd14e81f376724e8320fcfc64c}
       \strng{authornamehash}{5059fdfd14e81f376724e8320fcfc64c}
       \strng{authorfullhash}{5059fdfd14e81f376724e8320fcfc64c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Industrial Informatics}
@@ -221,17 +262,582 @@
       \strng{authorbibnamehash}{037fc661505a6f6eeb0bcc9aa71fd7ce}
       \strng{authornamehash}{037fc661505a6f6eeb0bcc9aa71fd7ce}
       \strng{authorfullhash}{b00f8dcca41693cf721128f84ed560c8}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Engineering and Advanced Technology}
       \field{number}{1}
-      \field{title}{Augmented reality (ar) application in manufacturing encompassing quality control and maintenance}
+      \field{title}{Augmented reality application in manufacturing encompassing quality control and maintenance}
       \field{volume}{9}
       \field{year}{2019}
       \field{pages}{197\bibrangedash 204}
       \range{pages}{8}
+    \endentry
+    \entry{7907444}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=436c89f5f94c12b2fd8c68378ca701b5}{%
+           family={Akgul},
+           familyi={A\bibinitperiod},
+           given={Omer},
+           giveni={O\bibinitperiod}}}%
+        {{hash=6be87df0b5c37e334850639b82e26c18}{%
+           family={Penekli},
+           familyi={P\bibinitperiod},
+           given={H.\bibnamedelimi Ibrahim},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=674c3debc666b3c6e932f08fb1b7d7f8}{%
+           family={Genc},
+           familyi={G\bibinitperiod},
+           given={Yakup},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{e107c53b86bd7a83f4274aa04c2fb183}
+      \strng{fullhash}{e107c53b86bd7a83f4274aa04c2fb183}
+      \strng{bibnamehash}{e107c53b86bd7a83f4274aa04c2fb183}
+      \strng{authorbibnamehash}{e107c53b86bd7a83f4274aa04c2fb183}
+      \strng{authornamehash}{e107c53b86bd7a83f4274aa04c2fb183}
+      \strng{authorfullhash}{e107c53b86bd7a83f4274aa04c2fb183}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 12th International Conference on Signal-Image Technology and Internet-Based Systems (SITIS)}
+      \field{title}{Applying Deep Learning in Augmented Reality Tracking}
+      \field{year}{2016}
+      \field{pages}{47\bibrangedash 54}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/SITIS.2016.17
+      \endverb
+    \endentry
+    \entry{devagiri2022augmented}{article}{}
+      \name{author}{5}{}{%
+        {{hash=76aa5a7aef15353cf2ebdf3ca82d8d4d}{%
+           family={Devagiri},
+           familyi={D\bibinitperiod},
+           given={Jeevan\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=561eb10b7a47dc7d174a8c659d149ec7}{%
+           family={Paheding},
+           familyi={P\bibinitperiod},
+           given={Sidike},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a075a054e8ae496a76982988d306396d}{%
+           family={Niyaz},
+           familyi={N\bibinitperiod},
+           given={Quamar},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=1947d7770055b14f2c3b8b72091979a2}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xiaoli},
+           giveni={X\bibinitperiod}}}%
+        {{hash=254d142a02ac952a5334f911f2002a95}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3cc64458a7effec732837a8cac02be42}
+      \strng{fullhash}{775fc344dfcc5324f8a1e47cfa0bb61e}
+      \strng{bibnamehash}{3cc64458a7effec732837a8cac02be42}
+      \strng{authorbibnamehash}{3cc64458a7effec732837a8cac02be42}
+      \strng{authornamehash}{3cc64458a7effec732837a8cac02be42}
+      \strng{authorfullhash}{775fc344dfcc5324f8a1e47cfa0bb61e}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{title}{Augmented Reality and Artificial Intelligence in industry: Trends, tools, and future challenges}
+      \field{year}{2022}
+      \field{pages}{118002}
+      \range{pages}{1}
+    \endentry
+    \entry{chen2019design}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f12458352bf48d8ebe2ba46b11310c19}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f1a9df609710c30ef5a82f59a2267a48}{%
+           family={Mi},
+           familyi={M\bibinitperiod},
+           given={Lantian},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c067864ccca73c095535a0ef8f188a6b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chao\bibnamedelima Ping},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c27052c0e3d052693ab0d2eef5c500fb}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Haowen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=58d39e7feefd0566d390727da585d13b}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Jinghui},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3de35a3d9c5a16487feaf1cd9b8dbc07}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wenbo},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{9e4bf25f043fa6b81b9954b8e1dd3f71}
+      \strng{fullhash}{44a3b830c72f726a9abb939b77a23917}
+      \strng{bibnamehash}{9e4bf25f043fa6b81b9954b8e1dd3f71}
+      \strng{authorbibnamehash}{9e4bf25f043fa6b81b9954b8e1dd3f71}
+      \strng{authornamehash}{9e4bf25f043fa6b81b9954b8e1dd3f71}
+      \strng{authorfullhash}{44a3b830c72f726a9abb939b77a23917}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics express}
+      \field{number}{26}
+      \field{title}{Design of foveated contact lens display for augmented reality}
+      \field{volume}{27}
+      \field{year}{2019}
+      \field{pages}{38204\bibrangedash 38219}
+      \range{pages}{16}
+    \endentry
+    \entry{zhao2020pointar}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=fe281f540a0dc37dd2bd6e0578eb6535}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yiqin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=acbe1056d3a1e336879a10561fdc4539}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Tian},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5a41b5a1ab53500c8cf96ae677b424d7}
+      \strng{fullhash}{5a41b5a1ab53500c8cf96ae677b424d7}
+      \strng{bibnamehash}{5a41b5a1ab53500c8cf96ae677b424d7}
+      \strng{authorbibnamehash}{5a41b5a1ab53500c8cf96ae677b424d7}
+      \strng{authornamehash}{5a41b5a1ab53500c8cf96ae677b424d7}
+      \strng{authorfullhash}{5a41b5a1ab53500c8cf96ae677b424d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XXIII 16}
+      \field{title}{Pointar: Efficient lighting estimation for mobile augmented reality}
+      \field{year}{2020}
+      \field{pages}{678\bibrangedash 693}
+      \range{pages}{16}
+    \endentry
+    \entry{arena2022overview}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5ef5cc4a0baef852342b3c15765f48b3}{%
+           family={Arena},
+           familyi={A\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a38bf2c9ae13990ef1252395dc2b7f07}{%
+           family={Collotta},
+           familyi={C\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b2ee3c395668c0ab3e4363a71bc76054}{%
+           family={Pau},
+           familyi={P\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=21a4e712fb8941851f22057d88ed115a}{%
+           family={Termine},
+           familyi={T\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{f5dc92784be81582d221a75f78563ec2}
+      \strng{fullhash}{2c0cf5ecc151407a44bf8e2654a42733}
+      \strng{bibnamehash}{f5dc92784be81582d221a75f78563ec2}
+      \strng{authorbibnamehash}{f5dc92784be81582d221a75f78563ec2}
+      \strng{authornamehash}{f5dc92784be81582d221a75f78563ec2}
+      \strng{authorfullhash}{2c0cf5ecc151407a44bf8e2654a42733}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers}
+      \field{number}{2}
+      \field{title}{An overview of augmented reality}
+      \field{volume}{11}
+      \field{year}{2022}
+      \field{pages}{28}
+      \range{pages}{1}
+    \endentry
+    \entry{itoh2021towards}{article}{}
+      \name{author}{4}{}{%
+        {{hash=aefe097c4cb08e8f9eef2428ccf764d0}{%
+           family={Itoh},
+           familyi={I\bibinitperiod},
+           given={Yuta},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b14ab5f66d5567c3df51a9f32e8b5aa7}{%
+           family={Langlotz},
+           familyi={L\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fec94b2e6f95667065c45e05e9ec889d}{%
+           family={Sutton},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e239c53df5fc80d2b9d9b7873c777e1c}{%
+           family={Plopski},
+           familyi={P\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{83a0f8470507d6eef5a0ba109a066b29}
+      \strng{fullhash}{36f95fc9ba2a4b72d3e5c1194aea2269}
+      \strng{bibnamehash}{83a0f8470507d6eef5a0ba109a066b29}
+      \strng{authorbibnamehash}{83a0f8470507d6eef5a0ba109a066b29}
+      \strng{authornamehash}{83a0f8470507d6eef5a0ba109a066b29}
+      \strng{authorfullhash}{36f95fc9ba2a4b72d3e5c1194aea2269}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys (CSUR)}
+      \field{number}{6}
+      \field{title}{Towards indistinguishable augmented reality: A survey on optical see-through head-mounted displays}
+      \field{volume}{54}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 36}
+      \range{pages}{36}
+    \endentry
+    \entry{8676153}{article}{}
+      \name{author}{5}{}{%
+        {{hash=aefe097c4cb08e8f9eef2428ccf764d0}{%
+           family={Itoh},
+           familyi={I\bibinitperiod},
+           given={Yuta},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b14ab5f66d5567c3df51a9f32e8b5aa7}{%
+           family={Langlotz},
+           familyi={L\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=64f5487c893c5c78130f0f05bd232677}{%
+           family={Iwai},
+           familyi={I\bibinitperiod},
+           given={Daisuke},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a2641901b32f041dcc705118e2100717}{%
+           family={Kiyokawa},
+           familyi={K\bibinitperiod},
+           given={Kiyoshi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2d66bac4753df6bd4f21d6e893f36f05}{%
+           family={Amano},
+           familyi={A\bibinitperiod},
+           given={Toshiyuki},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{83a0f8470507d6eef5a0ba109a066b29}
+      \strng{fullhash}{0cc5760bd8b5b12c4ee8224e264a8b79}
+      \strng{bibnamehash}{83a0f8470507d6eef5a0ba109a066b29}
+      \strng{authorbibnamehash}{83a0f8470507d6eef5a0ba109a066b29}
+      \strng{authornamehash}{83a0f8470507d6eef5a0ba109a066b29}
+      \strng{authorfullhash}{0cc5760bd8b5b12c4ee8224e264a8b79}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{5}
+      \field{title}{Light Attenuation Display: Subtractive See-Through Near-Eye Display via Spatial Color Filtering}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{pages}{1951\bibrangedash 1960}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TVCG.2019.2899229
+      \endverb
+    \endentry
+    \entry{hartmann2020aar}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=4182ceb5a4143ea62392a4cb344caba5}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c07774a7197aea7252160837864ce912}{%
+           family={Yeh},
+           familyi={Y\bibinitperiod},
+           given={Yen-Ting},
+           giveni={Y\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=f94f65826718458aba9a7e2ee4834749}{%
+           family={Vogel},
+           familyi={V\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1817330ec8adfc298334fab633909d98}
+      \strng{fullhash}{1817330ec8adfc298334fab633909d98}
+      \strng{bibnamehash}{1817330ec8adfc298334fab633909d98}
+      \strng{authorbibnamehash}{1817330ec8adfc298334fab633909d98}
+      \strng{authornamehash}{1817330ec8adfc298334fab633909d98}
+      \strng{authorfullhash}{1817330ec8adfc298334fab633909d98}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology}
+      \field{title}{AAR: Augmenting a wearable augmented reality display with an actuated head-mounted projector}
+      \field{year}{2020}
+      \field{pages}{445\bibrangedash 458}
+      \range{pages}{14}
+    \endentry
+    \entry{de2018augmented}{article}{}
+      \name{author}{3}{}{%
+        {{hash=513f0c806257ebaf2c43856de2df3a53}{%
+           family={De\bibnamedelima Pace},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=248b7fe8699924438cf0e230180455bc}{%
+           family={Manuri},
+           familyi={M\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5b548d09ac1c4e8b8cce8a847df4f823}{%
+           family={Sanna},
+           familyi={S\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c22ad9231008bae0ac0777a2754b2ac9}
+      \strng{fullhash}{c22ad9231008bae0ac0777a2754b2ac9}
+      \strng{bibnamehash}{c22ad9231008bae0ac0777a2754b2ac9}
+      \strng{authorbibnamehash}{c22ad9231008bae0ac0777a2754b2ac9}
+      \strng{authornamehash}{c22ad9231008bae0ac0777a2754b2ac9}
+      \strng{authorfullhash}{c22ad9231008bae0ac0777a2754b2ac9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Am. J. Comput. Sci. Inf. Technol}
+      \field{number}{1}
+      \field{title}{Augmented reality in industry 4.0}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{17}
+      \range{pages}{1}
+    \endentry
+    \entry{9613426}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=9a7b231e5594b4cb18546badb49325c3}{%
+           family={Mühlan},
+           familyi={M\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=282cad07ffeb7dd90f283e52765c1286}{%
+           family={Przybysz},
+           familyi={P\bibinitperiod},
+           given={Kazimierz\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6d0f0830db34896ff9ec4e40baec3301}{%
+           family={Lindner},
+           familyi={L\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c9f57ca0ce48c17cbe6dcda416662798}{%
+           family={Akrmanová},
+           familyi={A\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=02b8da14f3a15c69de157885e5315a6a}{%
+           family={Winkler},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b809c47877971ba03b57a7364d464403}{%
+           family={Keil},
+           familyi={K\bibinitperiod},
+           given={Sophia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{21d52b76850e25cbb75bdb8a93cac8a0}
+      \strng{fullhash}{4d57a3f3c5761b443308f898b5cedd13}
+      \strng{bibnamehash}{21d52b76850e25cbb75bdb8a93cac8a0}
+      \strng{authorbibnamehash}{21d52b76850e25cbb75bdb8a93cac8a0}
+      \strng{authornamehash}{21d52b76850e25cbb75bdb8a93cac8a0}
+      \strng{authorfullhash}{4d57a3f3c5761b443308f898b5cedd13}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA )}
+      \field{title}{A Review and Implementation Framework of Industrial Augmented Reality}
+      \field{year}{2021}
+      \field{pages}{01\bibrangedash 04}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ETFA45728.2021.9613426
+      \endverb
+    \endentry
+    \entry{mourtzis2020augmented}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5bbcc8fc2b786d9abf714b2931932bff}{%
+           family={Mourtzis},
+           familyi={M\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d415a40512cff0759b6118de9a2938ba}{%
+           family={Siatras},
+           familyi={S\bibinitperiod},
+           given={Vasilis},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4fd110e117d5bb53662a0b4e6ee7441f}{%
+           family={Angelopoulos},
+           familyi={A\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d073266491495147e6b381f364b99e49}{%
+           family={Panopoulos},
+           familyi={P\bibinitperiod},
+           given={Nikos},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{28b5289386858e61d7a2747c7ed2f46b}
+      \strng{fullhash}{22e98ec7118524f350c9eeb13faf5616}
+      \strng{bibnamehash}{28b5289386858e61d7a2747c7ed2f46b}
+      \strng{authorbibnamehash}{28b5289386858e61d7a2747c7ed2f46b}
+      \strng{authornamehash}{28b5289386858e61d7a2747c7ed2f46b}
+      \strng{authorfullhash}{22e98ec7118524f350c9eeb13faf5616}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Manufacturing}
+      \field{title}{An augmented reality collaborative product design cloud-based platform in the context of learning factory}
+      \field{volume}{45}
+      \field{year}{2020}
+      \field{pages}{546\bibrangedash 551}
+      \range{pages}{6}
+    \endentry
+    \entry{tang2003comparative}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=d1b0285421ef1c01aca94112e4b9aaf7}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f0eadb3e431ac2f633f82d73a005f990}{%
+           family={Owen},
+           familyi={O\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8f318dd6cfc9d97226589effb24d93a0}{%
+           family={Biocca},
+           familyi={B\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dfca79da892e82a2631c1215af7bb77c}{%
+           family={Mou},
+           familyi={M\bibinitperiod},
+           given={Weimin},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{50b496709a0622fc46c0248f4aa0eb0a}
+      \strng{fullhash}{66ebf41d98e8409901bac0c62ec6a168}
+      \strng{bibnamehash}{50b496709a0622fc46c0248f4aa0eb0a}
+      \strng{authorbibnamehash}{50b496709a0622fc46c0248f4aa0eb0a}
+      \strng{authornamehash}{50b496709a0622fc46c0248f4aa0eb0a}
+      \strng{authorfullhash}{66ebf41d98e8409901bac0c62ec6a168}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the SIGCHI conference on Human factors in computing systems}
+      \field{title}{Comparative effectiveness of augmented reality in object assembly}
+      \field{year}{2003}
+      \field{pages}{73\bibrangedash 80}
+      \range{pages}{8}
+    \endentry
+    \entry{8951930}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=d65bef1a4228f150b1074fc7360b337e}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Yongzhi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=90589d45a3658ad1d0e8f5c6bede5a10}{%
+           family={Rambach},
+           familyi={R\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=729c06e188b3c1a58e4023b8ab6881c3}{%
+           family={Minaskan},
+           familyi={M\bibinitperiod},
+           given={Nareg},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f730e021cdd00d2bf3474acfadfe8e94}{%
+           family={Lesur},
+           familyi={L\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=83d8694b17224cfec9ad4c18bdae8587}{%
+           family={Pagani},
+           familyi={P\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c0478ee9487d25a73d22d36eaf6bffa8}{%
+           family={Stricker},
+           familyi={S\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{314b01c87affb7f7c29fc1a9a105d55b}
+      \strng{fullhash}{32cdb3b706a955dfe040bdc586b348e0}
+      \strng{bibnamehash}{314b01c87affb7f7c29fc1a9a105d55b}
+      \strng{authorbibnamehash}{314b01c87affb7f7c29fc1a9a105d55b}
+      \strng{authornamehash}{314b01c87affb7f7c29fc1a9a105d55b}
+      \strng{authorfullhash}{32cdb3b706a955dfe040bdc586b348e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)}
+      \field{title}{Deep Multi-state Object Pose Estimation for Augmented Reality Assembly}
+      \field{year}{2019}
+      \field{pages}{222\bibrangedash 227}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ISMAR-Adjunct.2019.00-42
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
