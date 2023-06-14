@@ -748,6 +748,69 @@
       \field{pages}{546\bibrangedash 551}
       \range{pages}{6}
     \endentry
+    \entry{masoni2017supporting}{article}{}
+      \name{author}{8}{}{%
+        {{hash=bc0db27b01290236695ddf4a97c4b224}{%
+           family={Masoni},
+           familyi={M\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c1c698b5a19eb5720d8876338e9fa368}{%
+           family={Ferrise},
+           familyi={F\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cca311dea56f279b2ec8ed08dad63089}{%
+           family={Bordegoni},
+           familyi={B\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5297ed7522a51eb38c1f2aa1a091a5c6}{%
+           family={Gattullo},
+           familyi={G\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7c4a3de4434e21d34ec30fd76807c2e7}{%
+           family={Uva},
+           familyi={U\bibinitperiod},
+           given={Antonio\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=840ba3e96ab6388ea2d0fbd018a9b401}{%
+           family={Fiorentino},
+           familyi={F\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e2af8f9ca6d86b1d241c548d689f946c}{%
+           family={Carrabba},
+           familyi={C\bibinitperiod},
+           given={Ernesto},
+           giveni={E\bibinitperiod}}}%
+        {{hash=36f576fac67b2686de33cc7eb9624880}{%
+           family={Di\bibnamedelima Donato},
+           familyi={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e5e77fdbe366f78180cf3dafba00c835}
+      \strng{fullhash}{c0a346c50b4f3ed44bda760a8e0eaa04}
+      \strng{bibnamehash}{e5e77fdbe366f78180cf3dafba00c835}
+      \strng{authorbibnamehash}{e5e77fdbe366f78180cf3dafba00c835}
+      \strng{authornamehash}{e5e77fdbe366f78180cf3dafba00c835}
+      \strng{authorfullhash}{c0a346c50b4f3ed44bda760a8e0eaa04}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia manufacturing}
+      \field{title}{Supporting remote maintenance in industry 4.0 through augmented reality}
+      \field{volume}{11}
+      \field{year}{2017}
+      \field{pages}{1296\bibrangedash 1302}
+      \range{pages}{7}
+    \endentry
     \entry{tang2003comparative}{inproceedings}{}
       \name{author}{4}{}{%
         {{hash=d1b0285421ef1c01aca94112e4b9aaf7}{%
@@ -777,8 +840,8 @@
       \strng{authorbibnamehash}{50b496709a0622fc46c0248f4aa0eb0a}
       \strng{authornamehash}{50b496709a0622fc46c0248f4aa0eb0a}
       \strng{authorfullhash}{66ebf41d98e8409901bac0c62ec6a168}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the SIGCHI conference on Human factors in computing systems}
@@ -838,6 +901,100 @@
       \verb{doi}
       \verb 10.1109/ISMAR-Adjunct.2019.00-42
       \endverb
+    \endentry
+    \entry{chylinski2020augmented}{article}{}
+      \name{author}{6}{}{%
+        {{hash=628570bb6c46013911bfeee69678d29d}{%
+           family={Chylinski},
+           familyi={C\bibinitperiod},
+           given={Mathew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=887d11bebc86b8e86f4545a7956f7631}{%
+           family={Heller},
+           familyi={H\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bf0d0065aff7405a092bac4ccecbee5c}{%
+           family={Hilken},
+           familyi={H\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e02f4f30818274fdbff340fbebf9fcda}{%
+           family={Keeling},
+           familyi={K\bibinitperiod},
+           given={Debbie\bibnamedelima Isobel},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=df551c97fec656084120b67966ca51b8}{%
+           family={Mahr},
+           familyi={M\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1261787802442e53c8871d704df2afd2}{%
+           family={Ruyter},
+           familyi={R\bibinitperiod},
+           given={Ko},
+           giveni={K\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{a8d112bd8ad911f576ee4d2f61b1be69}
+      \strng{fullhash}{6cfe6d2d51e534f0f0950fa01c21279f}
+      \strng{bibnamehash}{a8d112bd8ad911f576ee4d2f61b1be69}
+      \strng{authorbibnamehash}{a8d112bd8ad911f576ee4d2f61b1be69}
+      \strng{authornamehash}{a8d112bd8ad911f576ee4d2f61b1be69}
+      \strng{authorfullhash}{6cfe6d2d51e534f0f0950fa01c21279f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australasian Marketing Journal}
+      \field{number}{4}
+      \field{title}{Augmented reality marketing: A technology-enabled approach to situated customer experience}
+      \field{volume}{28}
+      \field{year}{2020}
+      \field{pages}{374\bibrangedash 384}
+      \range{pages}{11}
+    \endentry
+    \entry{rauschnabel2019augmented}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b43f782ec9110306796703d49a30e54a}{%
+           family={Rauschnabel},
+           familyi={R\bibinitperiod},
+           given={Philipp\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6881264f29cc206e45fde6389ddb61fa}{%
+           family={Felix},
+           familyi={F\bibinitperiod},
+           given={Reto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=78c82ffc62a9e26b3021640cb4ff3067}{%
+           family={Hinsch},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
+      \strng{fullhash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
+      \strng{bibnamehash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
+      \strng{authorbibnamehash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
+      \strng{authornamehash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
+      \strng{authorfullhash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Retailing and Consumer Services}
+      \field{title}{Augmented reality marketing: How mobile AR-apps can improve brands through inspiration}
+      \field{volume}{49}
+      \field{year}{2019}
+      \field{pages}{43\bibrangedash 53}
+      \range{pages}{11}
     \endentry
   \enddatalist
 \endrefsection
