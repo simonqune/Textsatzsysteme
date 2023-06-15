@@ -59,26 +59,39 @@ Die mathematischen Gleichungen des EKF sind wie folgt definiert:
 \begin{enumerate}
       \item Vorhersage des Zustands:
             \begin{equation*}
-                  \hat{x}_{k} = f(\hat{x}_{k-1}, u_{k})\
+                  \hat{x}_{k+1} = g({x}_{k}, u)\
             \end{equation*}
-            wobei $\hat{x}_{k-1}$ die geschätzte\\
+            wobei $g$ die Zustandsübergangsfunktion ist,
+            $x_{k}$ der geschätzte Zustand zum Zeitpunkt $k$ ist
+            und $u$ die Eingabe zum Zeitpunkt $k$ ist.\\
       \item Vorhersage der Fehlerkovarianz:
             \begin{equation*}
-                  P_{k} = F_{k} P_{k-1} F_{k}^T + Q_{k}\
+                  P_{k + 1} = J_{A} P_{k} A_{A}^T + Q\
             \end{equation*}
-
-      \item Korrektur des Zustands:
+            wobei $J_{A}$ die Jacobi-Matrix der Zustandsübergangsfunktion ist, 
+            $P_{k}$ die Kovarianzmatrix des Schätzfehlers ist 
+            und $Q$ die Kovarianzmatrix des Prozessrauschens ist.\\
+      \item Berechnung der Kalman Verstärkung:
             \begin{equation*}
-                  K_{k} = P_{k} H_{k}^T (H_{k} P_{k} H_{k}^T + R_{k})^{-1}\
+                  K_{k} = P_{k} J_{H}^T (J_{H} P_{k} J_{H}^T + R)^{-1}\
             \end{equation*}
+            wobei $K_{k} $ die Kalman-Verstärkung ist,
+             $J_{H}$ die Jacobi-Matrix der Messfunktion ist,
+              $R$ die Kovarianzmatrix des Messrauschens ist und 
+              $z_{k}$ die Messung zum Zeitpunkt $k$ ist.\\
+      \item Aktualisierung der Schätzung durch Messung:
             \begin{equation*}
-                  \hat{x}_{k} = \hat{x}_{k} + K_{k} (z_{k} - H_{k} \hat{x}_{k})\
+                  \hat{x}_{k} = \hat{x}_{k} + K_{z} (z_{k} - h (\hat{x}_{k})\
             \end{equation*}
+            wobei $J_{H}$ die Jacobi-Matrix der Messfunktion ist,
+             $R$ die Kovarianzmatrix des Messrauschens ist
+              und $z_{k}$ die Messung zum Zeitpunkt $k$ ist.\\
 
       \item Korrektur der Fehlerkovarianz:
             \begin{equation*}
-                  P_{k} = (I - K_{k} H_{k}) P_{k}\
+                  P_{k} = (I - K_{k} J_{H}) P_{k}\
             \end{equation*}
+            wobei $I$ die Einheitsmatrix ist.\\
 \end{enumerate}
 
 Die vorgestellte Methode zur Sensorfusion im AR-Bereich basierend auf dem EKF
