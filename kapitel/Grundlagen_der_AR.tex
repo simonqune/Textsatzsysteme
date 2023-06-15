@@ -31,12 +31,65 @@ gegenüber äußeren Störeinflüssen und erfordern keine direkte Sichtlinie zu
 anderen Sensoren. Es besteht jedoch das Problem, dass sich die gemessene
 Position und Ausrichtung im Laufe der Zeit verschiebt und von der tatsächlichen
 Position abweicht. Daher werden IMUs häufig in Kombination mit anderen Sensoren
-wie 3D-Kameras verwendet, um präzisere Ergebnisse zu erzielen.
+wie 3D-Kameras verwendet, um präzisere Ergebnisse zu erzielen. Grundlegend für
+ein erfolgreiches Tracking ist die Kombination aus verschiedenene Tracking
+Verfahren und deren Vorteilen. Diese Kombination ist unter Sensor Fusion
+bekannt.
 
 UM GPS ERWETERN
 
-\subsection{Datenverarbeitung und -darstellung}
+\subsection{Sensorfusion}
+Die Sensorfusion spielt eine entscheidende Rolle im Bereich der erweiterten
+Realität (AR), da sie es ermöglicht, genaue und konsistente virtuelle
+Darstellungen der realen Welt zu erzeugen. In dem vorliegenden Paper von XYZ et
+al.wird eine Methode zur Sensorfusion basierend auf dem erweiterten
+Kalman-Filter (EKF) vorgestellt. Der EKF ist ein mathematisches Modell, das den
+Zustand eines Systems schätzt und dabei sowohl Messungen als auch vorherige
+Zustandsschätzungen berücksichtigt.
 
+Die vorgeschlagene Methode kombiniert die Daten verschiedener Sensoren wie
+Kamera, Inertialsensoren und Tiefensensor, um die räumliche Position und
+Orientierung des AR-Geräts zu bestimmen. Hierbei werden mathematische
+Gleichungen verwendet, um die Sensorausgaben in ein gemeinsames
+Koordinatensystem zu transformieren und anschließend zu fusionieren. Der EKF
+verwendet dabei die Bewegungs- und Messmodelle der Sensoren, um eine optimale
+Schätzung des Zustands des AR-Geräts zu generieren.
+
+Die mathematischen Gleichungen des EKF sind wie folgt definiert:
+\begin{enumerate}
+      \item Vorhersage des Zustands:
+            \begin{equation*}
+                  \hat{x}_{k} = f(\hat{x}_{k-1}, u_{k})\
+            \end{equation*}
+            wobei $\hat{x}_{k-1}$ die geschätzte\\
+      \item Vorhersage der Fehlerkovarianz:
+            \begin{equation*}
+                  P_{k} = F_{k} P_{k-1} F_{k}^T + Q_{k}\
+            \end{equation*}
+
+      \item Korrektur des Zustands:
+            \begin{equation*}
+                  K_{k} = P_{k} H_{k}^T (H_{k} P_{k} H_{k}^T + R_{k})^{-1}\
+            \end{equation*}
+            \begin{equation*}
+                  \hat{x}_{k} = \hat{x}_{k} + K_{k} (z_{k} - H_{k} \hat{x}_{k})\
+            \end{equation*}
+
+      \item Korrektur der Fehlerkovarianz:
+            \begin{equation*}
+                  P_{k} = (I - K_{k} H_{k}) P_{k}\
+            \end{equation*}
+\end{enumerate}
+
+Die vorgestellte Methode zur Sensorfusion im AR-Bereich basierend auf dem EKF
+ermöglicht eine präzise Bestimmung der räumlichen Position und Orientierung des
+AR-Geräts. Durch die Integration verschiedener Sensoren und die Anwendung
+mathematischer Gleichungen des EKF können Messungen korrigiert und Fehler
+reduziert werden. Die resultierenden Schätzungen tragen dazu bei, eine nahtlose
+Verschmelzung von virtuellen und realen Inhalten in AR-Anwendungen zu
+ermöglichen.
+
+\subsection{Datenverarbeitung und -darstellung}
 Die Datenverarbeitung und Darstellung spielen eine entscheidende Rolle im
 Bereich der Augmented Reality (AR). Um eine nahtlose Integration von virtuellen
 Inhalten in die reale Welt zu ermöglichen, müssen die erfassten Daten zunächst
@@ -67,15 +120,20 @@ Verfahrens ist in Abbildung \ref{fig:VBAR} dargestellt.
       \label{fig:VBAR}
 \end{figure}
 
-Ein weiteres Verfahren, das in Abbildung \ref{fig:OSTAR} dargestellt ist,
-basiert auf optischen, durchsichtigen AR-Displays, die auf halbdurchlässigen
-Spiegeln basieren. Bei dieser Variante kann der Benutzer die reale Welt durch
-den halbdurchlässigen Spiegel sehen und gleichzeitig die reflektierte Anzeige
-der AR-Inhalte wahrnehmen. Ein bekanntes Anwendungsbeispiel für diese
-Technologie sind Head-up-Displays in Autos, bei denen relevante Informationen
-wie Geschwindigkeit oder Navigationshinweise direkt auf die Windschutzscheibe
+Ein weiteres Verfahren, das in Abbildung 2 dargestellt ist, basiert auf
+optischen, durchsichtigen AR-Displays, die auf halbdurchlässigen Spiegeln
+basieren. Bei dieser Variante kann der Benutzer die reale Welt durch den
+halbdurchlässigen Spiegel sehen und gleichzeitig die reflektierte Anzeige der
+AR-Inhalte wahrnehmen. Die Besonderheit dieser Technologie liegt in der
+Anordnung des halbdurchlässigen Spiegels unter einem Winkel von 45 Grad.
+Dadurch wird das einfallende Licht sowohl reflektiert als auch teilweise
+durchgelassen. Ein bekanntes Anwendungsbeispiel für diese Technologie sind
+Head-up-Displays in Autos, bei denen relevante Informationen wie
+Geschwindigkeit oder Navigationshinweise direkt auf die Windschutzscheibe
 projiziert werden. Diese Art der Darstellung ermöglicht es dem Benutzer, die
-AR-Inhalte zu sehen, ohne den Blick von der Straße abwenden zu müssen.
+AR-Inhalte zu sehen, ohne den Blick von der Straße abwenden zu müssen. Auch
+erste Versuche von AR-Brillen, wie den goggle glasses basierten auf dieser
+Technologie.
 
 \begin{figure}[h]
       \centering
@@ -88,7 +146,7 @@ Eine weitere Variante nutzt einen Projektor, um Texturen oder Bilder auf
 bestehende Objekte zu projizieren und somit die realen Objekte zu erweitern.
 Durch diese Methode werden zusätzliche visuelle Informationen auf die
 Oberfläche der Objekte übertragen, um beispielsweise Anleitungen oder virtuelle
-Beschriftungen darzustellen.
+Beschriftungen darzustellen. statische vs mobile SYSTEME
 
 Diese verschiedenen Technologien der AR-Darstellung können auf verschiedene
 Arten für den Benutzer zugänglich gemacht werden. Eine häufig verwendete Form
