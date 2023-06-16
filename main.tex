@@ -26,6 +26,11 @@
 \captionsetup{
 	figurename=Abb:,
 }
+\usepackage[
+	automark, %automatische Kolumne
+]{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\clearscrheadfoot
 
 %Literatur anpassen
 \usepackage[
@@ -38,13 +43,6 @@
 %Schriftanpassungen
 \renewcommand{\familydefault}{\sfdefault} %serifenlose Schrift
 \sansmath			%Aktivieren von Paket "Sansmath"
-
-\usepackage[
-	automark, %automatische Kolumne
-]{scrlayer-scrpage}
-\pagestyle{scrheadings}
-\clearscrheadfoot
-
 \ohead[]{\headmark} %dynamische kolumne in kopfzeile
 \ofoot[\pagemark]{\pagemark} %Seitenzahl in Fußzeile außen
 
