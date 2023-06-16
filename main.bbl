@@ -60,6 +60,87 @@
       \field{pages}{73\bibrangedash 272}
       \range{pages}{200}
     \endentry
+    \entry{5336489}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=26d98916abb5e17ba1a609a98b70581f}{%
+           family={Schall},
+           familyi={S\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d7951d6cfd9bc35f93a52957063e67eb}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9fda537debfcffe3b6e5d63251952f96}{%
+           family={Reitmayr},
+           familyi={R\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+        {{hash=97b1fa6ec80063e941952aca1a6d5264}{%
+           family={Taichmann},
+           familyi={T\bibinitperiod},
+           given={Elise},
+           giveni={E\bibinitperiod}}}%
+        {{hash=10a7f2bbae37f24a8bcb6708f4062f7a}{%
+           family={Wieser},
+           familyi={W\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b31d42dd4ba4466eb4b996d6e714dc68}{%
+           family={Schmalstieg},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+        {{hash=04b7ad2fc0fa6201bb36195a662b2d0a}{%
+           family={Hofmann-Wellenhof},
+           familyi={H\bibinithyphendelim W\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{deea88d3376e4e5c4e31c69590850b68}
+      \strng{fullhash}{b34f997761abce35743cf75f021665e3}
+      \strng{bibnamehash}{deea88d3376e4e5c4e31c69590850b68}
+      \strng{authorbibnamehash}{deea88d3376e4e5c4e31c69590850b68}
+      \strng{authornamehash}{deea88d3376e4e5c4e31c69590850b68}
+      \strng{authorfullhash}{b34f997761abce35743cf75f021665e3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 8th IEEE International Symposium on Mixed and Augmented Reality}
+      \field{title}{Global pose estimation using multi-sensor fusion for outdoor Augmented Reality}
+      \field{year}{2009}
+      \field{pages}{153\bibrangedash 162}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ISMAR.2009.5336489
+      \endverb
+    \endentry
+    \entry{simon2006optimal}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d2075620d3db6f848d4904775355e936}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{d2075620d3db6f848d4904775355e936}
+      \strng{fullhash}{d2075620d3db6f848d4904775355e936}
+      \strng{bibnamehash}{d2075620d3db6f848d4904775355e936}
+      \strng{authorbibnamehash}{d2075620d3db6f848d4904775355e936}
+      \strng{authornamehash}{d2075620d3db6f848d4904775355e936}
+      \strng{authorfullhash}{d2075620d3db6f848d4904775355e936}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optimal state estimation: Kalman, H infinity, and nonlinear approaches}
+      \field{year}{2006}
+    \endentry
     \entry{liu2022probing}{article}{}
       \name{author}{7}{}{%
         {{hash=60e88591d316b99e9f136edb8aead89f}{%
@@ -107,8 +188,8 @@
       \strng{authorbibnamehash}{da6399a198c5ab7d8caf866c9de50343}
       \strng{authornamehash}{da6399a198c5ab7d8caf866c9de50343}
       \strng{authorfullhash}{bce2b8d0b379dfacb91bc14d97ef6a96}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Robotics and Computer-Integrated Manufacturing}
@@ -147,8 +228,8 @@
       \strng{authorbibnamehash}{43787ade7eadf1a93211dc938dda1a96}
       \strng{authornamehash}{43787ade7eadf1a93211dc938dda1a96}
       \strng{authorfullhash}{a983bfafe9adeaebe5ee221d5f853e01}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2006 IEEE/ACM International Symposium on Mixed and Augmented Reality}
@@ -179,8 +260,8 @@
       \strng{authorbibnamehash}{d02f394fc8d42b4d79c4c89a42c2a946}
       \strng{authornamehash}{d02f394fc8d42b4d79c4c89a42c2a946}
       \strng{authorfullhash}{d02f394fc8d42b4d79c4c89a42c2a946}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
@@ -218,8 +299,8 @@
       \strng{authorbibnamehash}{5059fdfd14e81f376724e8320fcfc64c}
       \strng{authornamehash}{5059fdfd14e81f376724e8320fcfc64c}
       \strng{authorfullhash}{5059fdfd14e81f376724e8320fcfc64c}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Industrial Informatics}
@@ -262,8 +343,8 @@
       \strng{authorbibnamehash}{037fc661505a6f6eeb0bcc9aa71fd7ce}
       \strng{authornamehash}{037fc661505a6f6eeb0bcc9aa71fd7ce}
       \strng{authorfullhash}{b00f8dcca41693cf721128f84ed560c8}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Engineering and Advanced Technology}
@@ -568,8 +649,8 @@
       \strng{authornamehash}{83a0f8470507d6eef5a0ba109a066b29}
       \strng{authorfullhash}{0cc5760bd8b5b12c4ee8224e264a8b79}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
@@ -607,8 +688,8 @@
       \strng{authorbibnamehash}{1817330ec8adfc298334fab633909d98}
       \strng{authornamehash}{1817330ec8adfc298334fab633909d98}
       \strng{authorfullhash}{1817330ec8adfc298334fab633909d98}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology}
@@ -619,10 +700,10 @@
     \endentry
     \entry{de2020survey}{article}{}
       \name{author}{3}{}{%
-        {{hash=13d1449b1ab40e78dcafec203d4b2b67}{%
+        {{hash=71468731bfa8fed365088ee673b9da2d}{%
            family={Souza\bibnamedelima Cardoso},
            familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
-           given={Luís\bibnamedelima Fernando},
+           given={Luı́s\bibnamedelima Fernando},
            giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
            prefix={de},
            prefixi={d\bibinitperiod}}}%
@@ -640,14 +721,14 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{1b08a02cc3e5997f4c2f116908206962}
-      \strng{fullhash}{1b08a02cc3e5997f4c2f116908206962}
-      \strng{bibnamehash}{1b08a02cc3e5997f4c2f116908206962}
-      \strng{authorbibnamehash}{1b08a02cc3e5997f4c2f116908206962}
-      \strng{authornamehash}{1b08a02cc3e5997f4c2f116908206962}
-      \strng{authorfullhash}{1b08a02cc3e5997f4c2f116908206962}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{cbab69450321d48a64ef8a3b147d727e}
+      \strng{fullhash}{cbab69450321d48a64ef8a3b147d727e}
+      \strng{bibnamehash}{cbab69450321d48a64ef8a3b147d727e}
+      \strng{authorbibnamehash}{cbab69450321d48a64ef8a3b147d727e}
+      \strng{authornamehash}{cbab69450321d48a64ef8a3b147d727e}
+      \strng{authorfullhash}{cbab69450321d48a64ef8a3b147d727e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Computers \& Industrial Engineering}
@@ -777,8 +858,8 @@
       \strng{authorbibnamehash}{28b5289386858e61d7a2747c7ed2f46b}
       \strng{authornamehash}{28b5289386858e61d7a2747c7ed2f46b}
       \strng{authorfullhash}{22e98ec7118524f350c9eeb13faf5616}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Procedia Manufacturing}
@@ -840,8 +921,8 @@
       \strng{authorbibnamehash}{e5e77fdbe366f78180cf3dafba00c835}
       \strng{authornamehash}{e5e77fdbe366f78180cf3dafba00c835}
       \strng{authorfullhash}{c0a346c50b4f3ed44bda760a8e0eaa04}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Procedia manufacturing}
@@ -880,8 +961,8 @@
       \strng{authorbibnamehash}{50b496709a0622fc46c0248f4aa0eb0a}
       \strng{authornamehash}{50b496709a0622fc46c0248f4aa0eb0a}
       \strng{authorfullhash}{66ebf41d98e8409901bac0c62ec6a168}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the SIGCHI conference on Human factors in computing systems}
@@ -929,8 +1010,8 @@
       \strng{authorbibnamehash}{314b01c87affb7f7c29fc1a9a105d55b}
       \strng{authornamehash}{314b01c87affb7f7c29fc1a9a105d55b}
       \strng{authorfullhash}{32cdb3b706a955dfe040bdc586b348e0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2019 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)}

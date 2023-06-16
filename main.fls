@@ -478,6 +478,7 @@ INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrc
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common-lists.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
@@ -490,7 +491,7 @@ INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\p
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
@@ -557,6 +558,7 @@ INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pg
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
@@ -568,7 +570,6 @@ INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathf
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
-INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
@@ -662,6 +663,7 @@ INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgf
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
@@ -697,7 +699,6 @@ INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\oldpgfco
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
-INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
 INPUT C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex

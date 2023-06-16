@@ -36,8 +36,7 @@ tatsächlichen Position abweichen können. Daher werden IMUs häufig in
 Kombination mit anderen Sensoren wie 3D-Kameras verwendet, um präzisere
 Ergebnisse zu erzielen. Eine erfolgreiche Tracking-Methode basiert grundlegend
 auf der Kombination verschiedener Tracking-Verfahren und deren Vorteilen, was
-als Sensorfusion bekannt ist.
-
+als Sensorfusion bekannt ist. \cite{billinghurst2015survey}
 \subsection{Sensorfusion}
 Sensorfusion im Bereich der erweiterten Realität (AR) bezieht sich auf die
 kombinierte Verwendung mehrerer Sensoren, um genaue und zuverlässige
@@ -68,7 +67,8 @@ Die Sensorfusion mithilfe des EKF ermöglicht es, genaue und zuverlässige
 Informationen über die Position und Ausrichtung eines AR-Geräts in Echtzeit zu
 erhalten. Dies ist entscheidend für eine nahtlose Integration von virtuellen
 Inhalten in die reale Welt und ermöglicht eine immersive AR-Erfahrung für die
-Benutzer.
+Benutzer. \cite{5336489,simon2006optimal}
+
 
 Die mathematischen Gleichungen des EKF sind wie folgt definiert:
 \begin{enumerate}
@@ -76,30 +76,30 @@ Die mathematischen Gleichungen des EKF sind wie folgt definiert:
             \begin{equation*}
                   \hat{x}_{k+1} = g({x}_{k}, u)\
             \end{equation*}
-            wobei $g$ die Zustandsübergangsfunktion ist,
-            $x_{k}$ der geschätzte Zustand zum Zeitpunkt $k$ ist
+            wobei $g$ die Zustandsübergangsfunktion,
+            $x_{k}$ der geschätzte Zustand zum Zeitpunkt $k$ 
             und $u$ die Eingabe zum Zeitpunkt $k$ ist.\\
       \item Vorhersage der Fehlerkovarianz:
             \begin{equation*}
                   P_{k + 1} = J_{A} P_{k} A_{A}^T + Q\
             \end{equation*}
-            wobei $J_{A}$ die Jacobi-Matrix der Zustandsübergangsfunktion ist,
-            $P_{k}$ die Kovarianzmatrix des Schätzfehlers ist
+            wobei $J_{A}$ die Jacobi-Matrix der Zustandsübergangsfunktion,
+            $P_{k}$ die Kovarianzmatrix des Schätzfehlers 
             und $Q$ die Kovarianzmatrix des Prozessrauschens ist.\\
       \item Berechnung der Kalman Verstärkung:
             \begin{equation*}
                   K_{k} = P_{k} J_{H}^T (J_{H} P_{k} J_{H}^T + R)^{-1}\
             \end{equation*}
-            wobei $K_{k} $ die Kalman-Verstärkung ist,
-            $J_{H}$ die Jacobi-Matrix der Messfunktion ist,
-            $R$ die Kovarianzmatrix des Messrauschens ist und
+            wobei $K_{k} $ die Kalman-Verstärkung,
+            $J_{H}$ die Jacobi-Matrix der Messfunktion,
+            $R$ die Kovarianzmatrix des Messrauschens und
             $z_{k}$ die Messung zum Zeitpunkt $k$ ist.\\
       \item Aktualisierung der Schätzung durch Messung:
             \begin{equation*}
                   \hat{x}_{k} = \hat{x}_{k} + K_{z} (z_{k} - h (\hat{x}_{k})\
             \end{equation*}
-            wobei $J_{H}$ die Jacobi-Matrix der Messfunktion ist,
-            $R$ die Kovarianzmatrix des Messrauschens ist
+            wobei $J_{H}$ die Jacobi-Matrix der Messfunktion,
+            $R$ die Kovarianzmatrix des Messrauschens
             und $z_{k}$ die Messung zum Zeitpunkt $k$ ist.\\
 
       \item Korrektur der Fehlerkovarianz:
@@ -120,7 +120,7 @@ um genaue Positionierungsinformationen zu erhalten.
 
 Die Darstellung der AR-Inhalte erfolgt in Echtzeit, um eine immersive und
 interaktive Erfahrung zu gewährleisten. Hierbei spielen Grafiktechnologien wie
-Computergrafik, Rendering-Algorithmen und Shading eine wichtige Rolle. Die
+Computergrafik, Rendering-Algorithmen und Schattenberechnung eine wichtige Rolle. Die
 virtuellen Objekte müssen realistisch und überzeugend in die reale Umgebung
 integriert werden. Dies erfordert die Berücksichtigung von Aspekten wie
 Beleuchtung, Schatten und Perspektive, um eine konsistente und immersive
@@ -131,7 +131,7 @@ Bei der Video-gestützten Variante wird die Kamera des AR-Geräts verwendet, um
 eine Echtzeit-Videoaufnahme der Umgebung zu erfassen und auf dem Display
 anzuzeigen. Die AR-Inhalte werden mithilfe von Bildverarbeitungstechniken in
 die realen Aufnahmen integriert. Der schematische Aufbau eines solchen
-Verfahrens ist in Abbildung \ref{fig:VBAR} dargestellt.
+Verfahrens ist in Abbildung \ref{fig:VBAR} dargestellt.\\
 
 \begin{figure}[h]
       \centering
@@ -153,7 +153,7 @@ Geschwindigkeit oder Navigationshinweise direkt auf die Windschutzscheibe
 projiziert werden. Diese Art der Darstellung ermöglicht es dem Benutzer, die
 AR-Inhalte zu sehen, ohne den Blick von der Straße abwenden zu müssen. Auch
 erste Versuche von AR-Brillen, wie den Google Glass basierten auf dieser
-Technologie.
+Technologie.\\
 
 \begin{figure}[h]
       \centering
@@ -168,21 +168,20 @@ Durch diese Methode werden zusätzliche visuelle Informationen auf die
 Oberfläche der Objekte übertragen, um beispielsweise Anleitungen oder virtuelle
 Beschriftungen darzustellen.
 
-Diese verschiedenen Technologien der AR-Darstellung können auf verschiedene
+Diese verschiedenen Technologien der AR-Darstellung können auf unterschiedliche
 Arten für den Benutzer zugänglich gemacht werden. Eine häufig verwendete Form
 sind sogenannte Head-Mounted-Displays, wie AR-Brillen. Diese ermöglichen es dem
 Benutzer, die AR-Inhalte direkt vor seinen Augen wahrzunehmen und sie nahtlos
 in die reale Welt einzubetten. Durch das Tragen der AR-Brille hat der Benutzer
 die Freiheit, sich in der Umgebung zu bewegen und die AR-Erfahrung ohne
-Einschränkungen zu erleben.
+Einschränkungen zu erleben. \cite{billinghurst2015survey}
 
 \subsection{Benutzerschnittstellen und Interaktion}
 Die Benutzerschnittstellen und Interaktion spielen eine zentrale Rolle im
 Bereich der Augmented Reality (AR) und tragen maßgeblich zur intuitiven
 Bedienbarkeit, Benutzerfreundlichkeit und Immersion von AR-Anwendungen bei.
 
-Eine der gängigsten Formen der Benutzerschnittstelle in AR-Anwendungen ist das
-Head-Mounted Display (HMD), das dem Benutzer ermöglicht, die virtuellen Inhalte
+Head-Mounted Display (HMD) ermöglichen es dem Benutzer, die virtuellen Inhalte
 direkt vor seinen Augen zu sehen. Das HMD kann mit Sensoren ausgestattet sein,
 um die Umgebung, sowie Bewegungen des Nutzers zu erkennen. Dies ermöglicht eine
 Reihe von Interaktionsmöglichkeiten mit der AR-Anwendung.
@@ -226,4 +225,4 @@ Intelligenz ist es möglich, natürlichere und kontextbezogene Interaktionen zu
 ermöglichen. Die Gestaltung der Benutzerschnittstellen und Interaktionsmethoden
 spielt eine entscheidende Rolle, um AR-Anwendungen zugänglich,
 benutzerfreundlich und ansprechend zu gestalten und den Benutzern ein
-immersives und interaktives Erlebnis zu bieten.
+immersives und interaktives Erlebnis zu bieten. \cite{billinghurst2015survey}s
