@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1686929308 "main.bcf" "main.bbl" "main" 1686929315 0
+["biber main"] 1686929308 "main.bcf" "main.bbl" "main" 1686929671 0
   "./ref/ref_liste.bib" 1686929236 9496 16aaada0382a947390454af294947dd1 ""
-  "main.bcf" 1686929315 109019 4d38240c3a62a7790532bf3d2cfcdfda "pdflatex"
+  "main.bcf" 1686929670 109019 4d38240c3a62a7790532bf3d2cfcdfda "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1686929313 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1686929315 0
+["pdflatex"] 1686929668 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1686929671 0
   "C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686864265 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/kuhns/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1680337344 10788009 6bdcefacb10213bc9a84c5cbc258c069 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -260,17 +260,17 @@
   "bilder/svg/optical_see_trough_display.svg" 1686733100 4071 a0d2828fa1a69d270e3971be66fa0290 ""
   "bilder/svg/strucutre_video_based_AR.svg" 1686731926 3156 a8ccfd6ae7b5656122b628a697bbf6d6 ""
   "bilder/svg/studienverteilung_ar.svg" 1686919037 7298 07e7a3b6fef718ed02873a0ec6e175a5 ""
-  "c:/Git/Textsatzsysteme/main.tex" 1686919855 3161 9cf53b97a7a969160d494664a53048ff ""
+  "c:/Git/Textsatzsysteme/main.tex" 1686929529 3159 def967c311ae23836ab98dde79279d84 ""
   "kapitel/AR_in_der_Industrie_Stand_der_Technik.tex" 1686923951 2794 d663f4ad5d6a98be33d94e10f0bb5a8a ""
   "kapitel/Einführung.tex" 1686919037 1003 0fe07f88acc21130ac647a867cc4e19d ""
-  "kapitel/Fazit.tex" 1686920429 2060 96885762bd5e62c21a8408c4ec1c0cab ""
-  "kapitel/Grundlagen_der_AR.tex" 1686929309 13862 010743cb06d3468c954770d5d157df0f ""
-  "kapitel/Potenzial von AR für neue Geschäftsmodelle.tex" 1686928333 8353 97dedbffe0b477ce1a8ae1b4f736df5c ""
+  "kapitel/Fazit.tex" 1686929529 2056 637054527069c4e16dbd62d30c05d8e3 ""
+  "kapitel/Grundlagen_der_AR.tex" 1686929617 13832 93c6b1257be7daa116eeca9698bd4bee ""
+  "kapitel/Potenzial von AR für neue Geschäftsmodelle.tex" 1686929668 8318 73e6013718389923ef7b4786da22f2e1 ""
   "kapitel/Research_Areas.tex" 1686928260 5762 e7ea9a09a0875443b4b65d735e035127 ""
-  "main.aux" 1686929315 8252 c085a904063b7be63d88ee1d44d41c73 "pdflatex"
+  "main.aux" 1686929670 8252 b3f153d0b11e98288ec41cd313928c4f "pdflatex"
   "main.bbl" 1686929310 46200 2aded14ff81c2fa9c55cd5231b5a5ec2 "biber main"
-  "main.run.xml" 1686929315 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
-  "main.tex" 1686919855 3161 9cf53b97a7a969160d494664a53048ff ""
+  "main.run.xml" 1686929670 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
+  "main.tex" 1686929529 3159 def967c311ae23836ab98dde79279d84 ""
   "svg-inkscape/distribution_AR_display_svg-tex.pdf" 1686919687 59744 1b8f48ab44cde9ac258034813447e9c2 ""
   "svg-inkscape/distribution_AR_display_svg-tex.pdf_tex" 1686919687 3516 de55c9869128a1043af83f6635b42f06 ""
   "svg-inkscape/optical_see_trough_display_svg-tex.pdf" 1686733109 4830 1f64da0d940b36465be3710be6bf4177 ""
