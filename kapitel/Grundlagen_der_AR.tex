@@ -2,25 +2,27 @@
 
 Die Grundlage eines funktionsfähigen Augmented Reality-Systems bildet ein
 vielfältiges Zusammenspiel verschiedener technischer Systeme und Verfahren.
-Diese können grob in folgende drei wesentliche Bereiche unterteilt werden, die
-zusammenarbeiten, um eine nahtlose und immersive AR-Erfahrung zu ermöglichen.
+Diese können grob in folgende Bereiche unterteilt werden, die zusammenarbeiten,
+um eine nahtlose und immersive AR-Erfahrung zu ermöglichen.
 
 \subsection{Sensoren und Erfassungstechnologien}
 
 Um virtuelle Inhalte nahtlos in die reale Welt zu integrieren, ist eine präzise
 Bestimmung der Position des AR-Systems im Raum erforderlich. Dazu werden
 verschiedene Sensoren und Erfassungstechnologien eingesetzt, die die Umgebung
-analysieren und die Position sowie Ausrichtung des AR-Geräts ermitteln.
-Optische Tracking-Verfahren wie Infrarot-Sensoren, 3D-Kameras und herkömmliche
-Kameras im sichtbaren Lichtspektrum werden aufgrund ihrer geringen Kosten und
-hohen Verfügbarkeit häufig verwendet. Sie erfassen visuelle Informationen aus
-der Umgebung und dienen zur Erkennung von Markern oder speziellen Merkmalen, um
-die Position und Ausrichtung des AR-Geräts präzise zu bestimmen. Insbesondere
-3D-Kamerasysteme, die auf structured Light oder Time of Flight basieren, sind
-in den letzten Jahren immer beliebter geworden. Mithilfe fortschrittlicher
-Bildverarbeitungsalgorithmen erfolgt eine genaue Erkennung und Verfolgung
-visueller Elemente, um virtuelle Objekte in Echtzeit in die reale Welt zu
-integrieren.
+analysieren und die Position sowie Ausrichtung des AR-Geräts ermitteln. Häufig
+werden optische Tracking-Verfahren wie Infrarot-Sensoren, 3D-Kameras und
+herkömmliche Kameras im sichtbaren Lichtspektrum aufgrund ihrer geringen Kosten
+und hohen Verfügbarkeit verwendet. Diese Sensoren erfassen visuelle
+Informationen aus der Umgebung und dienen zur präzisen Bestimmung der Position
+und Ausrichtung des AR-Geräts anhand von Markern oder speziellen Merkmalen.
+Besonders beliebt sind in den letzten Jahren 3D-Kamerasysteme, die auf
+structured Light oder Time of Flight basieren. Durch fortschrittliche
+Bildverarbeitungsalgorithmen können visuelle Elemente genau erkannt und
+verfolgt werden, um virtuelle Objekte in Echtzeit in die reale Welt zu
+integrieren. Für den Außenbereich wird häufig auch GPS (Global Positioning
+System) verwendet, wobei die Genauigkeit je nach Anwendungsbereich moderat sein
+kann und Herausforderungen mit sich bringen kann.
 
 Ein weiterer wichtiger Bestandteil im Bereich der AR sind Inertiale
 Messeinheiten (IMUs). Diese Sensoren messen Beschleunigung,
@@ -28,32 +30,45 @@ Winkelgeschwindigkeit und magnetische Felder. Durch die Integration von IMUs in
 AR-Geräte können Bewegungen und Rotationen des Geräts erfasst und verfolgt
 werden, um die relative Position im Raum zu bestimmen. IMUs sind unempfindlich
 gegenüber äußeren Störeinflüssen und erfordern keine direkte Sichtlinie zu
-anderen Sensoren. Es besteht jedoch das Problem, dass sich die gemessene
-Position und Ausrichtung im Laufe der Zeit verschiebt und von der tatsächlichen
-Position abweicht. Daher werden IMUs häufig in Kombination mit anderen Sensoren
-wie 3D-Kameras verwendet, um präzisere Ergebnisse zu erzielen. Grundlegend für
-ein erfolgreiches Tracking ist die Kombination aus verschiedenene Tracking
-Verfahren und deren Vorteilen. Diese Kombination ist unter Sensor Fusion
-bekannt.
-
-UM GPS ERWETERN
+anderen Sensoren. Allerdings besteht das Problem, dass sich die gemessene
+Position und Ausrichtung im Laufe der Zeit verschieben und von der
+tatsächlichen Position abweichen können. Daher werden IMUs häufig in
+Kombination mit anderen Sensoren wie 3D-Kameras verwendet, um präzisere
+Ergebnisse zu erzielen. Eine erfolgreiche Tracking-Methode basiert grundlegend
+auf der Kombination verschiedener Tracking-Verfahren und deren Vorteilen, was
+als Sensorfusion bekannt ist.
 
 \subsection{Sensorfusion}
-Die Sensorfusion spielt eine entscheidende Rolle im Bereich der erweiterten
-Realität (AR), da sie es ermöglicht, genaue und konsistente virtuelle
-Darstellungen der realen Welt zu erzeugen. In dem vorliegenden Paper von XYZ et
-al.wird eine Methode zur Sensorfusion basierend auf dem erweiterten
-Kalman-Filter (EKF) vorgestellt. Der EKF ist ein mathematisches Modell, das den
-Zustand eines Systems schätzt und dabei sowohl Messungen als auch vorherige
-Zustandsschätzungen berücksichtigt.
+Sensorfusion im Bereich der erweiterten Realität (AR) bezieht sich auf die
+kombinierte Verwendung mehrerer Sensoren, um genaue und zuverlässige
+Informationen über die Position und Ausrichtung eines AR-Geräts in der realen
+Welt zu erhalten. Ein häufig verwendeter Ansatz für die Sensorfusion ist das
+erweiterte Kalman-Filter (EKF), das auf dem Kalman-Filter basiert und speziell
+für nichtlineare Systeme entwickelt wurde.
 
-Die vorgeschlagene Methode kombiniert die Daten verschiedener Sensoren wie
-Kamera, Inertialsensoren und Tiefensensor, um die räumliche Position und
-Orientierung des AR-Geräts zu bestimmen. Hierbei werden mathematische
-Gleichungen verwendet, um die Sensorausgaben in ein gemeinsames
-Koordinatensystem zu transformieren und anschließend zu fusionieren. Der EKF
-verwendet dabei die Bewegungs- und Messmodelle der Sensoren, um eine optimale
-Schätzung des Zustands des AR-Geräts zu generieren.
+Der EKF verwendet mathematische Modelle, um die Bewegung und das Verhalten der
+Sensoren zu beschreiben. Durch die Kombination der Messungen aus verschiedenen
+Sensoren werden die Vorteile jedes Sensors genutzt, um eine robuste und genaue
+Schätzung der Position und Ausrichtung zu erhalten. Dabei werden die
+Unsicherheiten und Fehler der einzelnen Sensoren berücksichtigt und korrigiert.
+
+Die Funktionsweise des EKF beruht auf einer Vorhersage- und einer
+Aktualisierungsphase. In der Vorhersagephase werden die aktuellen Schätzungen
+der Position und Ausrichtung basierend auf den vorherigen Messungen und dem
+mathematischen Modell der Bewegung des AR-Geräts prognostiziert. In der
+Aktualisierungsphase werden die aktuellen Messungen der Sensoren verwendet, um
+die Vorhersagen zu korrigieren und eine genauere Schätzung zu erhalten.
+
+Ein wichtiger Aspekt des EKF ist die Berücksichtigung der Unsicherheit der
+Sensormessungen und des mathematischen Modells. Durch die Anpassung der
+Gewichtung der einzelnen Messungen und die Schätzung der Unsicherheit wird eine
+robuste Fusion der Sensordaten erreicht.
+
+Die Sensorfusion mithilfe des EKF ermöglicht es, genaue und zuverlässige
+Informationen über die Position und Ausrichtung eines AR-Geräts in Echtzeit zu
+erhalten. Dies ist entscheidend für eine nahtlose Integration von virtuellen
+Inhalten in die reale Welt und ermöglicht eine immersive AR-Erfahrung für die
+Benutzer.
 
 Die mathematischen Gleichungen des EKF sind wie folgt definiert:
 \begin{enumerate}
@@ -68,24 +83,24 @@ Die mathematischen Gleichungen des EKF sind wie folgt definiert:
             \begin{equation*}
                   P_{k + 1} = J_{A} P_{k} A_{A}^T + Q\
             \end{equation*}
-            wobei $J_{A}$ die Jacobi-Matrix der Zustandsübergangsfunktion ist, 
-            $P_{k}$ die Kovarianzmatrix des Schätzfehlers ist 
+            wobei $J_{A}$ die Jacobi-Matrix der Zustandsübergangsfunktion ist,
+            $P_{k}$ die Kovarianzmatrix des Schätzfehlers ist
             und $Q$ die Kovarianzmatrix des Prozessrauschens ist.\\
       \item Berechnung der Kalman Verstärkung:
             \begin{equation*}
                   K_{k} = P_{k} J_{H}^T (J_{H} P_{k} J_{H}^T + R)^{-1}\
             \end{equation*}
             wobei $K_{k} $ die Kalman-Verstärkung ist,
-             $J_{H}$ die Jacobi-Matrix der Messfunktion ist,
-              $R$ die Kovarianzmatrix des Messrauschens ist und 
-              $z_{k}$ die Messung zum Zeitpunkt $k$ ist.\\
+            $J_{H}$ die Jacobi-Matrix der Messfunktion ist,
+            $R$ die Kovarianzmatrix des Messrauschens ist und
+            $z_{k}$ die Messung zum Zeitpunkt $k$ ist.\\
       \item Aktualisierung der Schätzung durch Messung:
             \begin{equation*}
                   \hat{x}_{k} = \hat{x}_{k} + K_{z} (z_{k} - h (\hat{x}_{k})\
             \end{equation*}
             wobei $J_{H}$ die Jacobi-Matrix der Messfunktion ist,
-             $R$ die Kovarianzmatrix des Messrauschens ist
-              und $z_{k}$ die Messung zum Zeitpunkt $k$ ist.\\
+            $R$ die Kovarianzmatrix des Messrauschens ist
+            und $z_{k}$ die Messung zum Zeitpunkt $k$ ist.\\
 
       \item Korrektur der Fehlerkovarianz:
             \begin{equation*}
@@ -93,14 +108,6 @@ Die mathematischen Gleichungen des EKF sind wie folgt definiert:
             \end{equation*}
             wobei $I$ die Einheitsmatrix ist.\\
 \end{enumerate}
-
-Die vorgestellte Methode zur Sensorfusion im AR-Bereich basierend auf dem EKF
-ermöglicht eine präzise Bestimmung der räumlichen Position und Orientierung des
-AR-Geräts. Durch die Integration verschiedener Sensoren und die Anwendung
-mathematischer Gleichungen des EKF können Messungen korrigiert und Fehler
-reduziert werden. Die resultierenden Schätzungen tragen dazu bei, eine nahtlose
-Verschmelzung von virtuellen und realen Inhalten in AR-Anwendungen zu
-ermöglichen.
 
 \subsection{Datenverarbeitung und -darstellung}
 Die Datenverarbeitung und Darstellung spielen eine entscheidende Rolle im
@@ -120,7 +127,7 @@ Beleuchtung, Schatten und Perspektive, um eine konsistente und immersive
 AR-Erfahrung zu schaffen.
 
 Es gibt verschiedene Arten, wie die Darstellung der AR-Inhalte erfolgen kann.
-Bei der video-gestützten Variante wird die Kamera des AR-Geräts verwendet, um
+Bei der Video-gestützten Variante wird die Kamera des AR-Geräts verwendet, um
 eine Echtzeit-Videoaufnahme der Umgebung zu erfassen und auf dem Display
 anzuzeigen. Die AR-Inhalte werden mithilfe von Bildverarbeitungstechniken in
 die realen Aufnahmen integriert. Der schematische Aufbau eines solchen
@@ -145,7 +152,7 @@ Head-up-Displays in Autos, bei denen relevante Informationen wie
 Geschwindigkeit oder Navigationshinweise direkt auf die Windschutzscheibe
 projiziert werden. Diese Art der Darstellung ermöglicht es dem Benutzer, die
 AR-Inhalte zu sehen, ohne den Blick von der Straße abwenden zu müssen. Auch
-erste Versuche von AR-Brillen, wie den goggle glasses basierten auf dieser
+erste Versuche von AR-Brillen, wie den Google Glass basierten auf dieser
 Technologie.
 
 \begin{figure}[h]
@@ -159,7 +166,7 @@ Eine weitere Variante nutzt einen Projektor, um Texturen oder Bilder auf
 bestehende Objekte zu projizieren und somit die realen Objekte zu erweitern.
 Durch diese Methode werden zusätzliche visuelle Informationen auf die
 Oberfläche der Objekte übertragen, um beispielsweise Anleitungen oder virtuelle
-Beschriftungen darzustellen. statische vs mobile SYSTEME
+Beschriftungen darzustellen.
 
 Diese verschiedenen Technologien der AR-Darstellung können auf verschiedene
 Arten für den Benutzer zugänglich gemacht werden. Eine häufig verwendete Form

@@ -617,6 +617,46 @@
       \field{pages}{445\bibrangedash 458}
       \range{pages}{14}
     \endentry
+    \entry{de2020survey}{article}{}
+      \name{author}{3}{}{%
+        {{hash=13d1449b1ab40e78dcafec203d4b2b67}{%
+           family={Souza\bibnamedelima Cardoso},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Luís\bibnamedelima Fernando},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=aa24f3a72128f9aefc2cdecc770dafa3}{%
+           family={Mariano},
+           familyi={M\bibinitperiod},
+           given={Flávia\bibnamedelimb Cristina\bibnamedelimb Martins\bibnamedelima Queiroz},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=1da3b3af1ef881c674ddccde96424a3c}{%
+           family={Zorzal},
+           familyi={Z\bibinitperiod},
+           given={Ezequiel\bibnamedelima Roberto},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1b08a02cc3e5997f4c2f116908206962}
+      \strng{fullhash}{1b08a02cc3e5997f4c2f116908206962}
+      \strng{bibnamehash}{1b08a02cc3e5997f4c2f116908206962}
+      \strng{authorbibnamehash}{1b08a02cc3e5997f4c2f116908206962}
+      \strng{authornamehash}{1b08a02cc3e5997f4c2f116908206962}
+      \strng{authorfullhash}{1b08a02cc3e5997f4c2f116908206962}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Industrial Engineering}
+      \field{title}{A survey of industrial augmented reality}
+      \field{volume}{139}
+      \field{year}{2020}
+      \field{pages}{106159}
+      \range{pages}{1}
+    \endentry
     \entry{de2018augmented}{article}{}
       \name{author}{3}{}{%
         {{hash=513f0c806257ebaf2c43856de2df3a53}{%
@@ -641,8 +681,8 @@
       \strng{authorbibnamehash}{c22ad9231008bae0ac0777a2754b2ac9}
       \strng{authornamehash}{c22ad9231008bae0ac0777a2754b2ac9}
       \strng{authorfullhash}{c22ad9231008bae0ac0777a2754b2ac9}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Am. J. Comput. Sci. Inf. Technol}
@@ -946,8 +986,8 @@
       \strng{authorbibnamehash}{a8d112bd8ad911f576ee4d2f61b1be69}
       \strng{authornamehash}{a8d112bd8ad911f576ee4d2f61b1be69}
       \strng{authorfullhash}{6cfe6d2d51e534f0f0950fa01c21279f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Australasian Marketing Journal}
@@ -985,8 +1025,8 @@
       \strng{authorbibnamehash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
       \strng{authornamehash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
       \strng{authorfullhash}{f4b0ae71de0c4520441ff1e6ed3e00bf}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Retailing and Consumer Services}

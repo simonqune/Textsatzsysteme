@@ -13,7 +13,7 @@
 \usepackage{lmodern} %Vektorschrift
 \usepackage{sansmath}
 \usepackage{amsfonts}
-\usepackage[margin=1in]{geometry}
+%\usepackage[margin=1in]{geometry}
 \usepackage{amsmath}
 \usepackage{blindtext}
 \usepackage{svg}
@@ -22,9 +22,8 @@
 \usepackage{pgfplots}
 \usepackage{caption}
 \captionsetup{
-  figurename=Abb:,
+	figurename=Abb:,
 }
-
 
 %Literatur anpassen
 \usepackage[
@@ -40,7 +39,6 @@
 
 \usepackage[
 	automark, %automatische Kolumne
-	headsepline %Trennlinie in Kopfzeile
 ]{scrlayer-scrpage}
 \pagestyle{scrheadings}
 \clearscrheadfoot
@@ -53,14 +51,35 @@
 
 \title{ Wie kann der Einsatz von Augmented Reality in der Industrie zu neuen Geschäftsmodellen führen?}
 
-\author{{\Large Simon Kuhn}}
+\author{
+	\IEEEauthorblockN{Simon Kuhn}
+	\IEEEauthorblockA{
+		\textit{Technische Hochschule Ingolstadt} \\
+		16. Juni 2023 %\today
+	}
+}
 
 %%%%%%%DOKUMENT%%%%%%%%%%%%%
 \begin{document}
 \maketitle
 \begin{abstract}
-	Dieser Artikel untersucht die wachsende Rolle von Augmented Reality (AR) im Industriesektor und konzentriert sich auf ihr Potenzial zur Optimierung von Betriebsabläufen, Steigerung der Produktivität und Förderung innovativer Geschäftsmodelle. Dabei wird die technische Grundlage von AR-Systemen eingehend untersucht, einschließlich Sensoren und Tracking-Technologien, Datenverarbeitung und -darstellung sowie Display-Optionen. Der Artikel diskutiert auch die gängige Verwendung von optischen Tracking-Methoden und Inertial Measurement Units (IMUs) zur Bestimmung der Position und Ausrichtung von AR-Geräten. Die Bedeutung der Datenverarbeitung und -darstellung für die nahtlose Integration von virtuellen Inhalten in die reale Welt wird hervorgehoben, zusammen mit einem Überblick über verschiedene Display-Optionen wie video-basierte oder optische Displays. Der Artikel schließt mit einer Diskussion über die aktuellen Anwendungen von AR in der Industrie, einschließlich Mitarbeiterschulungen, Wartung und Produktentwicklung.
+	Dieser Artikel untersucht die wachsende Rolle von Augmented Reality (AR) im Industriesektor
+	und konzentriert sich auf ihr Potenzial zur Optimierung von Betriebsabläufen,
+	Steigerung der Produktivität und Förderung innovativer Geschäftsmodelle.
+	Dabei wird die technische Grundlage von AR-Systemen eingehend untersucht,
+	einschließlich Sensoren und Tracking-Technologien, Datenverarbeitung und
+	-darstellung sowie Display-Optionen. Der Artikel diskutiert auch die gängige
+	Verwendung von optischen Tracking-Methoden und Inertial Measurement Units (IMUs)
+	zur Bestimmung der Position und Ausrichtung von AR-Geräten. Die Bedeutung der
+	Datenverarbeitung und -darstellung für die nahtlose Integration von virtuellen
+	Inhalten in die reale Welt wird hervorgehoben, zusammen mit einem Überblick über
+	verschiedene Display-Optionen wie video-basierte oder optische Displays. Der Artikel
+	schließt mit einer Diskussion über die aktuellen Anwendungen von AR in der Industrie,
+	einschließlich Mitarbeiterschulungen, Wartung und Produktentwicklung.
 \end{abstract}
+\begin{IEEEkeywords}
+	Augmented Reality, AR, Industrie, Potentiale von AR, Geschäftsmodelle
+\end{IEEEkeywords}
 \input{kapitel/Einführung}
 \input{kapitel/Grundlagen_der_AR}
 \input{kapitel/AR_in_der_Industrie_Stand_der_Technik}
