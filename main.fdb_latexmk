@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1686919629 "main.bcf" "main.bbl" "main" 1686919641 0
+["biber main"] 1686913379 "main.bcf" "main.bbl" "main" 1686916808 0
   "./ref/ref_liste.bib" 1686903099 8832 86e24e668c007ba9843afcb6c354f51d ""
-  "main.bcf" 1686919640 109163 7b345425e0e3dbe025a69ff13d2ed4fb "pdflatex"
+  "main.bcf" 1686916807 109163 7b345425e0e3dbe025a69ff13d2ed4fb "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1686919637 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1686919641 0
+["pdflatex"] 1686916803 "c:/Git/Textsatzsysteme/main.tex" "main.pdf" "main" 1686916808 0
   "C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686912370 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/kuhns/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679989134 23176374 c6f8aef1bb86134680736b8508a832fc ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -260,17 +260,17 @@
   "bilder/svg/optical_see_trough_display.svg" 1686811246 4071 a0d2828fa1a69d270e3971be66fa0290 ""
   "bilder/svg/strucutre_video_based_AR.svg" 1686811246 3156 a8ccfd6ae7b5656122b628a697bbf6d6 ""
   "bilder/svg/studienverteilung_ar.svg" 1686913462 7298 07e7a3b6fef718ed02873a0ec6e175a5 ""
-  "c:/Git/Textsatzsysteme/main.tex" 1686919628 3123 1ff57baedcc4817bca7dbb609bc01067 ""
+  "c:/Git/Textsatzsysteme/main.tex" 1686910306 3120 7c6a06a91d3a19daf8de6af2e263a694 ""
   "kapitel/AR_in_der_Industrie_Stand_der_Technik.tex" 1686916800 2793 ee1e60483f046de2b910b3bd54466abb ""
   "kapitel/Einführung.tex" 1686905351 1003 0fe07f88acc21130ac647a867cc4e19d ""
   "kapitel/Fazit.tex" 1686811246 2056 326911cb37e4c15507ba3f158d2f4496 ""
   "kapitel/Grundlagen_der_AR.tex" 1686916802 13836 c91052148e1029a9e3298d1af997e756 ""
   "kapitel/Potenzial von AR für neue Geschäftsmodelle.tex" 1686912466 8300 c8c2c80071e93d010ad971f46049f642 ""
   "kapitel/Research_Areas.tex" 1686906125 5761 dfbd8224788776fd5299a28ee85edd78 ""
-  "main.aux" 1686919640 7714 e984040c7009f7770796c4ee77c3e6b6 "pdflatex"
-  "main.bbl" 1686919632 42842 2d24e7fb91b910d79a9a3117554960a4 "biber main"
-  "main.run.xml" 1686919640 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
-  "main.tex" 1686919628 3123 1ff57baedcc4817bca7dbb609bc01067 ""
+  "main.aux" 1686916807 7709 e67d1cc4c97ce015ba1340184c05bb20 "pdflatex"
+  "main.bbl" 1686913382 42842 2d24e7fb91b910d79a9a3117554960a4 "biber main"
+  "main.run.xml" 1686916807 2379 3929d8417a1ee37700fd5662e9461da4 "pdflatex"
+  "main.tex" 1686910306 3120 7c6a06a91d3a19daf8de6af2e263a694 ""
   "svg-inkscape/distribution_AR_display_svg-tex.pdf" 1686903099 59744 1b8f48ab44cde9ac258034813447e9c2 ""
   "svg-inkscape/distribution_AR_display_svg-tex.pdf_tex" 1686903099 3516 de55c9869128a1043af83f6635b42f06 ""
   "svg-inkscape/optical_see_trough_display_svg-tex.pdf" 1686811246 4830 1f64da0d940b36465be3710be6bf4177 ""
