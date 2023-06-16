@@ -1,0 +1,1517 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.1)  16 JUN 2023 17:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Git/Textsatzsysteme/Augmented_Reality.tex
+(c:/Git/Textsatzsysteme/Augmented_Reality.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmpcountC=\count187
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@IEEEsubequation=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count193
+\c@table=\count194
+\@IEEEeqnnumcols=\count195
+\@IEEEeqncolcnt=\count196
+\@IEEEsubeqnnumrollback=\count197
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count198
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count199
+\@IEEEtranrubishbin=\box52
+)
+** ATTENTION: Overriding command lockouts (line 4).
+   defining Unicode char U+0301 (decimal 769)
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/10/04 3.81 The Babel package
+\babel@savecnt=\count266
+\U@D=\dimen162
+\l@unhyphenated=\language79
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count267
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthography)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthography)
+Package babel Info: Making " an active character on input line 122.
+))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen163
+\stockheight=\dimen164
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/sansmath\sansmath.sty
+Package: sansmath 2007/02/28  ver 1.1 Donald Arseneau
+\c@mv@sans=\count268
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/lmss/m/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfsl' in version `sans'
+(Font)                  OT1/lmss/m/sl --> OT1/lmss/m/sl on input line 104.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/lmss/m/n on input line 105.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sans'
+(Font)                  OML/cmm/m/it --> OML/cmm/m/it on input line 109.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sans'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfbf' in version `sans'
+(Font)                  OT1/lmss/bx/sl --> OT1/lmss/bx/n on input line 112.
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen167
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen168
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen169
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count274
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip16
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks22
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks23
+\eqnshift@=\dimen170
+\alignsep@=\dimen171
+\tagshift@=\dimen172
+\tagwidth@=\dimen173
+\totwidth@=\dimen174
+\lineht@=\dimen175
+\@envbody=\toks24
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count281
+\c@Blindtext=\count282
+\c@blind@countparstart=\count283
+\blind@countxx=\count284
+\blindtext@numBlindtext=\count285
+\blind@countyy=\count286
+\c@blindlist=\count287
+\c@blindlistlevel=\count288
+\c@blindlist@level=\count289
+\blind@listitem=\count290
+\c@blind@listcount=\count291
+\c@blind@levelcount=\count292
+\blind@mathformula=\count293
+\blind@Mathformula=\count294
+\c@blind@randomcount=\count295
+\c@blind@randommax=\count296
+\c@blind@pangramcount=\count297
+\c@blind@pangrammax=\count298
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count299
+\svg@box=\box55
+\c@svg@param@currpage=\count300
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen176
+\pgfutil@tempdimb=\dimen177
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box56
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen178
+\pgf@y=\dimen179
+\pgf@xa=\dimen180
+\pgf@ya=\dimen181
+\pgf@xb=\dimen182
+\pgf@yb=\dimen183
+\pgf@xc=\dimen184
+\pgf@yc=\dimen185
+\pgf@xd=\dimen186
+\pgf@yd=\dimen187
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count301
+\c@pgf@countb=\count302
+\c@pgf@countc=\count303
+\c@pgf@countd=\count304
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+\pgf@sys@id@count=\count305
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count306
+\pgfsyssoftpath@bigbuffer@items=\count307
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks33
+\float@box=\box57
+\@float@everytoks=\toks34
+\@floatcapt=\box58
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen188
+\pgfmath@count=\count309
+\pgfmath@box=\box59
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count310
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen189
+\pgf@picmaxx=\dimen190
+\pgf@picminy=\dimen191
+\pgf@picmaxy=\dimen192
+\pgf@pathminx=\dimen193
+\pgf@pathmaxx=\dimen194
+\pgf@pathminy=\dimen195
+\pgf@pathmaxy=\dimen196
+\pgf@xx=\dimen197
+\pgf@xy=\dimen198
+\pgf@yx=\dimen199
+\pgf@yy=\dimen256
+\pgf@zx=\dimen257
+\pgf@zy=\dimen258
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen259
+\pgf@path@lasty=\dimen260
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen261
+\pgf@shorten@start@additional=\dimen262
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count311
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen263
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen264
+\pgf@pt@y=\dimen265
+\pgf@pt@temp=\dimen266
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen267
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen268
+\pgf@sys@shading@range@num=\count312
+\pgf@shadingcount=\count313
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box63
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box64
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen269
+\pgf@nodesepend=\dimen270
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen271
+\pgffor@skip=\dimen272
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count314
+\pgfplotmarksize=\dimen273
+)
+\tikz@lastx=\dimen274
+\tikz@lasty=\dimen275
+\tikz@lastxsaved=\dimen276
+\tikz@lastysaved=\dimen277
+\tikz@lastmovetox=\dimen278
+\tikz@lastmovetoy=\dimen279
+\tikzleveldistance=\dimen280
+\tikzsiblingdistance=\dimen281
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count315
+\tikznumberofchildren=\count316
+\tikznumberofcurrentchild=\count317
+\tikz@fig@count=\count318
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count319
+\pgfmatrixcurrentcolumn=\count320
+\pgf@matrix@numberofcolumns=\count321
+)
+\tikz@expandcount=\count322
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks40
+\t@pgfplots@tokb=\toks41
+\t@pgfplots@tokc=\toks42
+\pgfplots@tmpa=\dimen282
+\c@pgfplots@coordindex=\count323
+\c@pgfplots@scanlineindex=\count324
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count325
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count326
+\t@pgfplotstable@a=\toks43
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count327
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen283
+\pgfdecoratedremainingdistance=\dimen284
+\pgfdecoratedinputsegmentcompleteddistance=\dimen285
+\pgfdecoratedinputsegmentremainingdistance=\dimen286
+\pgf@decorate@distancetomove=\dimen287
+\pgf@decorate@repeatstate=\count328
+\pgfdecorationsegmentamplitude=\dimen288
+\pgfdecorationsegmentlength=\dimen289
+)
+\tikz@lib@dec@box=\box69
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count329
+\pgfplots@xmin@reg=\dimen290
+\pgfplots@xmax@reg=\dimen291
+\pgfplots@ymin@reg=\dimen292
+\pgfplots@ymax@reg=\dimen293
+\pgfplots@zmin@reg=\dimen294
+\pgfplots@zmax@reg=\dimen295
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen296
+\captionmargin=\dimen297
+\caption@leftmargin=\dimen298
+\caption@rightmargin=\dimen299
+\caption@width=\dimen300
+\caption@indent=\dimen301
+\caption@parindent=\dimen302
+\caption@hangindent=\dimen303
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1176.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count330
+\c@continuedfloat=\count331
+Package caption Info: float package is loaded.
+)
+Package caption Info: Option `figurename' requires the `newfloat' package on input line 28.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2022/10/12 v3.38 KOMA-Script package (end user interface for scrlayer)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.sty
+Package: scrlayer 2022/10/12 v3.38 KOMA-Script package (defining layers and page styles)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+)
+\footheight=\skip53
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 2176.
+))
+1: subsection
+1: section
+1: section
+1: subsection
+
+Package scrlayer-scrpage Warning: replacing deprecated \clearscrheadfoot by
+(scrlayer-scrpage)                \clearpairofpagestyles on input line 33.
+
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count332
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count333
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count334
+\c@listtotal=\count335
+\c@listcount=\count336
+\c@liststart=\count337
+\c@liststop=\count338
+\c@citecount=\count339
+\c@citetotal=\count340
+\c@multicitecount=\count341
+\c@multicitetotal=\count342
+\c@instcount=\count343
+\c@maxnames=\count344
+\c@minnames=\count345
+\c@maxitems=\count346
+\c@minitems=\count347
+\c@citecounter=\count348
+\c@maxcitecounter=\count349
+\c@savedcitecounter=\count350
+\c@uniquelist=\count351
+\c@uniquename=\count352
+\c@refsection=\count353
+\c@refsegment=\count354
+\c@maxextratitle=\count355
+\c@maxextratitleyear=\count356
+\c@maxextraname=\count357
+\c@maxextradate=\count358
+\c@maxextraalpha=\count359
+\c@abbrvpenalty=\count360
+\c@highnamepenalty=\count361
+\c@lownamepenalty=\count362
+\c@maxparens=\count363
+\c@parenlevel=\count364
+\blx@tempcnta=\count365
+\blx@tempcntb=\count366
+\blx@tempcntc=\count367
+\c@blx@maxsection=\count368
+\blx@maxsegment@0=\count369
+\blx@notetype=\count370
+\blx@parenlevel@text=\count371
+\blx@parenlevel@foot=\count372
+\blx@sectionciteorder@0=\count373
+\blx@sectionciteorderinternal@0=\count374
+\blx@entrysetcounter=\count375
+\blx@biblioinstance=\count376
+\labelnumberwidth=\skip54
+\labelalphawidth=\skip55
+\biblabelsep=\skip56
+\bibitemsep=\skip57
+\bibnamesep=\skip58
+\bibinitsep=\skip59
+\bibparsep=\skip60
+\bibhang=\skip61
+\blx@bcfin=\read4
+\blx@bcfout=\write4
+\blx@langwohyphens=\language80
+\c@mincomprange=\count377
+\c@maxcomprange=\count378
+\c@mincompwidth=\count379
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric-verb.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count380
+\c@savedafterword=\count381
+\c@annotator=\count382
+\c@savedannotator=\count383
+\c@author=\count384
+\c@savedauthor=\count385
+\c@bookauthor=\count386
+\c@savedbookauthor=\count387
+\c@commentator=\count388
+\c@savedcommentator=\count389
+\c@editor=\count390
+\c@savededitor=\count391
+\c@editora=\count392
+\c@savededitora=\count393
+\c@editorb=\count394
+\c@savededitorb=\count395
+\c@editorc=\count396
+\c@savededitorc=\count397
+\c@foreword=\count398
+\c@savedforeword=\count399
+\c@holder=\count400
+\c@savedholder=\count401
+\c@introduction=\count402
+\c@savedintroduction=\count403
+\c@namea=\count404
+\c@savednamea=\count405
+\c@nameb=\count406
+\c@savednameb=\count407
+\c@namec=\count408
+\c@savednamec=\count409
+\c@translator=\count410
+\c@savedtranslator=\count411
+\c@shortauthor=\count412
+\c@savedshortauthor=\count413
+\c@shorteditor=\count414
+\c@savedshorteditor=\count415
+\c@labelname=\count416
+\c@savedlabelname=\count417
+\c@institution=\count418
+\c@savedinstitution=\count419
+\c@lista=\count420
+\c@savedlista=\count421
+\c@listb=\count422
+\c@savedlistb=\count423
+\c@listc=\count424
+\c@savedlistc=\count425
+\c@listd=\count426
+\c@savedlistd=\count427
+\c@liste=\count428
+\c@savedliste=\count429
+\c@listf=\count430
+\c@savedlistf=\count431
+\c@location=\count432
+\c@savedlocation=\count433
+\c@organization=\count434
+\c@savedorganization=\count435
+\c@origlocation=\count436
+\c@savedoriglocation=\count437
+\c@origpublisher=\count438
+\c@savedorigpublisher=\count439
+\c@publisher=\count440
+\c@savedpublisher=\count441
+\c@language=\count442
+\c@savedlanguage=\count443
+\c@origlanguage=\count444
+\c@savedoriglanguage=\count445
+\c@pageref=\count446
+\c@savedpageref=\count447
+\shorthandwidth=\skip62
+\shortjournalwidth=\skip63
+\shortserieswidth=\skip64
+\shorttitlewidth=\skip65
+\shortauthorwidth=\skip66
+\shorteditorwidth=\skip67
+\locallabelnumberwidth=\skip68
+\locallabelalphawidth=\skip69
+\localshorthandwidth=\skip70
+\localshortjournalwidth=\skip71
+\localshortserieswidth=\skip72
+\localshorttitlewidth=\skip73
+\localshortauthorwidth=\skip74
+\localshorteditorwidth=\skip75
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count448
+\c@textcitetotal=\count449
+\c@textcitemaxnames=\count450
+\c@biburlbigbreakpenalty=\count451
+\c@biburlbreakpenalty=\count452
+\c@biburlnumpenalty=\count453
+\c@biburlucpenalty=\count454
+\c@biburllcpenalty=\count455
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count456
+)
+Package biblatex Info: Trying to load bibliography style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.bbx' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-verb.bbx
+File: numeric-verb.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count457
+\c@bbx:relatedtotal=\count458
+)))
+Package biblatex Info: Trying to load citation style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.cbx' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-verb.cbx
+File: numeric-verb.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count459
+\l__pdf_internal_box=\box70
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-09-28 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count460
+\@quotereset=\count461
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 63.
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (Augmented_Reality.aux)
+\openout1 = `Augmented_Reality.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 63.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <5> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <7> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <8> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <9> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <11> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <11> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <17> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <20> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <20> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <24> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <24> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+
+-- Lines per column: 56 (exact).
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count462
+\scratchdimen=\dimen304
+\scratchbox=\box71
+\nofMPsegments=\count463
+\nofMParguments=\count464
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count465
+\MPscratchDim=\dimen305
+\MPnumerator=\count466
+\makeMPintoPDFobject=\count467
+\everyMPtoPDFconversion=\toks45
+) (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
+ on input line 63.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package newfloat Info: `float' package detected.
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+(C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
+File: ngerman.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `Augmented_Reality.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Augmented_Reality.bbl' found.
+ (Augmented_Reality.bbl)
+Package biblatex Info: Reference section=0 on input line 63.
+Package biblatex Info: Reference segment=0 on input line 63.
+ (kapitel/EinfÃ¼hrung.tex
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 1.
+
+) (kapitel/Grundlagen_der_AR.tex
+Underfull \hbox (badness 1874) in paragraph at lines 10--1
+\T1/lmss/m/n/10 ver-brei-tet und viel-fäl-tig. Er fin-det An-wen-dung bei der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--1
+\T1/lmss/m/n/10 AR-Technologien und Platt-for-men zum Ein-satz, wie
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 10--1
+\T1/lmss/m/n/10 bei-spiels-wei-se Head-mounted Dis-plays (HMDs), Smart
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 10--1
+\T1/lmss/m/n/10 bie-ten den Be-nut-zern ein im-mer-si-ves AR-Erlebnis und
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 10--1
+\T1/lmss/m/n/10 er-mög-li-chen ei-ne di-rek-te In-ter-ak-ti-on mit den vir-tu-el-len
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--1
+
+ []
+
+
+Underfull \vbox (badness 3579) has occurred while \output is active []
+
+ [1{C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+]
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 76.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
+File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 76.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 76.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 5345) in paragraph at lines 78--82
+\T1/lmss/m/n/10 wobei $\OT1/lmss/m/sl/10+ g$ \T1/lmss/m/n/10 die Zu-stands-über-gangs-funk-ti-on, $\OT1/lmss/m/sl/10+ x[]$ \T1/lmss/m/n/10 der
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 78--82
+\T1/lmss/m/n/10 ge-schätz-te Zu-stand zum Zeit-punkt $\OT1/lmss/m/sl/10+ k$ \T1/lmss/m/n/10 und $\OT1/lmss/m/sl/10+ u$ \T1/lmss/m/n/10 die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--97
+
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 100--104
+\T1/lmss/m/n/10 wobei $\OT1/lmss/m/sl/10+ J[]$ \T1/lmss/m/n/10 die Jacobi-Matrix der Mess-funk-ti-on, $\OT1/lmss/m/sl/10+ R$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 129--135
+[]\T1/lmss/m/n/10 Es gibt ver-schie-de-ne Ar-ten, wie die Dar-stel-lung der
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 129--135
+\T1/lmss/m/n/10 wird die Ka-me-ra des AR-Geräts ver-wen-det, um ei-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--135
+
+ []
+
+Package svg Info: Last page of `./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf' is 5 on input line 138.
+(svg-inkscape/strucutre_video_based_AR_svg-tex.pdf_tex
+<./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, id=16, page=1, 1064.16321pt x 529.66632pt>
+File: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 176.39923pt x 87.79527pt.
+<./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, id=17, page=2, 1064.16321pt x 529.66632pt>
+File: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, page 2>
+Package pdftex.def Info: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf , page2 used on input line 59.
+(pdftex.def)             Requested size: 176.39923pt x 87.79527pt.
+<./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, id=18, page=3, 1064.16321pt x 529.66632pt>
+File: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, page 3>
+Package pdftex.def Info: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf , page3 used on input line 65.
+(pdftex.def)             Requested size: 176.39923pt x 87.79527pt.
+<./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, id=19, page=4, 1064.16321pt x 529.66632pt>
+File: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, page 4>
+Package pdftex.def Info: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf , page4 used on input line 67.
+(pdftex.def)             Requested size: 176.39923pt x 87.79527pt.
+<./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, id=20, page=5, 1064.16321pt x 529.66632pt>
+File: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf, page 5>
+Package pdftex.def Info: ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf , page5 used on input line 70.
+(pdftex.def)             Requested size: 176.39923pt x 87.79527pt.
+)
+Underfull \hbox (badness 3039) in paragraph at lines 143--157
+\T1/lmss/m/n/10 Spie-gel se-hen und gleich-zei-tig die re-flek-tier-te An-zei-ge
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 143--157
+\T1/lmss/m/n/10 der AR-Inhalte wahr-neh-men. Die Be-son-der-heit die-ser
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--157
+\T1/lmss/m/n/10 durch-ge-las-sen. Ein be-kann-tes An-wen-dungs-bei-spiel für
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 143--157
+\T1/lmss/m/n/10 die-se Tech-no-lo-gie sind Head-up-Displays in Au-tos, bei
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--157
+\T1/lmss/m/n/10 Na-vi-ga-ti-ons-hin-wei-se di-rekt auf die Wind-schutz-schei-be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--157
+
+ []
+
+[2 <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf> <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/strucutre_video_based_AR_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Package svg Info: Last page of `./svg-inkscape/optical_see_trough_display_svg-tex.pdf' is 4 on input line 160.
+ (svg-inkscape/optical_see_trough_display_svg-tex.pdf_tex
+<./svg-inkscape/optical_see_trough_display_svg-tex.pdf, id=48, page=1, 1098.03976pt x 743.49687pt>
+File: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/optical_see_trough_display_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 176.39923pt x 119.4384pt.
+<./svg-inkscape/optical_see_trough_display_svg-tex.pdf, id=49, page=2, 1098.03976pt x 743.49687pt>
+File: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/optical_see_trough_display_svg-tex.pdf, page 2>
+Package pdftex.def Info: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 176.39923pt x 119.4384pt.
+<./svg-inkscape/optical_see_trough_display_svg-tex.pdf, id=50, page=3, 1098.03976pt x 743.49687pt>
+File: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/optical_see_trough_display_svg-tex.pdf, page 3>
+Package pdftex.def Info: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf , page3 used on input line 63.
+(pdftex.def)             Requested size: 176.39923pt x 119.4384pt.
+<./svg-inkscape/optical_see_trough_display_svg-tex.pdf, id=51, page=4, 1098.03976pt x 743.49687pt>
+File: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/optical_see_trough_display_svg-tex.pdf, page 4>
+Package pdftex.def Info: ./svg-inkscape/optical_see_trough_display_svg-tex.pdf , page4 used on input line 67.
+(pdftex.def)             Requested size: 176.39923pt x 119.4384pt.
+)) (kapitel/AR_in_der_Industrie_Stand_der_Technik.tex
+Underfull \hbox (badness 10000) in paragraph at lines 220--1
+[]\T1/lmss/m/n/10 Die Be-nut-zer-schnitt-stel-len und In-ter-ak-ti-ons-me-tho-den
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 220--1
+\T1/lmss/m/n/10 der In-ter-ak-ti-on zu er-schlie-ÿen. Durch die In-te-gra-ti-on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--1
+\T1/lmss/m/n/10 von fort-ge-schrit-te-nen Tech-no-lo-gi-en wie ma-schi-nel-lem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--1
+\T1/lmss/m/n/10 Ler-nen und Künst-li-cher In-tel-li-genz ist es mög-lich,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--1
+\T1/lmss/m/n/10 na-tür-li-che-re und kon-text-be-zo-ge-ne In-ter-ak-tio-nen zu
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 220--1
+\T1/lmss/m/n/10 er-mög-li-chen. Die Ge-stal-tung der Be-nut-zer-schnitt-stel-len
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--1
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./svg-inkscape/optical_see_trough_display_svg-tex.pdf> <./svg-inkscape/optical_see_trough_display_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/optical_see_trough_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/optical_see_trough_display_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/optical_see_trough_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/optical_see_trough_display_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/optical_see_trough_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]) (kapitel/Research_Areas.tex
+Underfull \hbox (badness 5563) in paragraph at lines 27--1
+\T1/lmss/m/n/10 In-spek-ti-on bie-tet viel-fäl-ti-ge Vor-tei-le, um Prüf-pro-zes-se
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 27--1
+\T1/lmss/m/n/10 ef-fi-zi-en-ter und prä-zi-ser zu ge-stal-ten. AR er-mög-licht es
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 27--1
+\T1/lmss/m/n/10 Ver-bes-se-rung der Ge-nau-ig-keit bei der In-spek-ti-on bei.
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 27--1
+\T1/lmss/m/n/10 Dar-über hin-aus kann AR da-zu bei-tra-gen, den Pro-zess
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 27--1
+\T1/lmss/m/n/10 der Qua-li-täts-kon-trol-le zu be-schleu-ni-gen. Hier-für wer-den
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 27--1
+\T1/lmss/m/n/10 und In-spek-ti-on hat ge-zeigt, dass die Nut-zung die-ser
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 27--1
+\T1/lmss/m/n/10 ver-schie-de-nen In-dus-trie-zwei-gen zu op-ti-mie-ren und die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--38
+[]\T1/lmss/m/n/10 Im in-dus-tri-el-len Sek-tor kom-men ver-schie-de-ne AR-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--38
+\T1/lmss/m/n/10 Darstellungstechniken, am häu-figs-ten al-ler-dings Head
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 22--38
+\T1/lmss/m/n/10 zu er-zeu-gen. Zu-dem kann der Re-chen-auf-wand je nach
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 22--38
+\T1/lmss/m/n/10 Auf-lö-sung und Sicht-be-reich zu Ver-zö-ge-run-gen füh-ren,
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 22--38
+\T1/lmss/m/n/10 er-fol-gen kön-nen. Auch zu lang-sa-me Bild-wie-der-hol-ra-ten
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 22--38
+\T1/lmss/m/n/10 sehr re-chen-in-ten-siv und kann häu-fig nicht in Echt-zeit
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 22--38
+\T1/lmss/m/n/10 er-fol-gen [12]. Um die ge-nann-ten Pro-ble-me an-zu-ge-hen,
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 22--38
+\T1/lmss/m/n/10 im Be-reich der Ak-ku-tech-nik sind wei-te-re Fort-schrit-te
+ []
+
+[4]
+Package svg Info: Last page of `./svg-inkscape/distribution_AR_display_svg-tex.pdf' is 6 on input line 68.
+ (svg-inkscape/distribution_AR_display_svg-tex.pdf_tex
+<./svg-inkscape/distribution_AR_display_svg-tex.pdf, id=73, page=1, 1247.41031pt x 747.54282pt>
+File: ./svg-inkscape/distribution_AR_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/distribution_AR_display_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/distribution_AR_display_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 151.01158pt.
+<./svg-inkscape/distribution_AR_display_svg-tex.pdf, id=74, page=2, 1247.41031pt x 747.54282pt>
+File: ./svg-inkscape/distribution_AR_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/distribution_AR_display_svg-tex.pdf, page 2>
+Package pdftex.def Info: ./svg-inkscape/distribution_AR_display_svg-tex.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 252.0pt x 151.01158pt.
+<./svg-inkscape/distribution_AR_display_svg-tex.pdf, id=75, page=3, 1247.41031pt x 747.54282pt>
+File: ./svg-inkscape/distribution_AR_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/distribution_AR_display_svg-tex.pdf, page 3>
+Package pdftex.def Info: ./svg-inkscape/distribution_AR_display_svg-tex.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 252.0pt x 151.01158pt.
+<./svg-inkscape/distribution_AR_display_svg-tex.pdf, id=76, page=4, 1247.41031pt x 747.54282pt>
+File: ./svg-inkscape/distribution_AR_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/distribution_AR_display_svg-tex.pdf, page 4>
+Package pdftex.def Info: ./svg-inkscape/distribution_AR_display_svg-tex.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 252.0pt x 151.01158pt.
+<./svg-inkscape/distribution_AR_display_svg-tex.pdf, id=77, page=5, 1247.41031pt x 747.54282pt>
+File: ./svg-inkscape/distribution_AR_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/distribution_AR_display_svg-tex.pdf, page 5>
+Package pdftex.def Info: ./svg-inkscape/distribution_AR_display_svg-tex.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 252.0pt x 151.01158pt.
+<./svg-inkscape/distribution_AR_display_svg-tex.pdf, id=78, page=6, 1247.41031pt x 747.54282pt>
+File: ./svg-inkscape/distribution_AR_display_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/distribution_AR_display_svg-tex.pdf, page 6>
+Package pdftex.def Info: ./svg-inkscape/distribution_AR_display_svg-tex.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 252.0pt x 151.01158pt.
+)) (kapitel/Potenzial von AR fÃ¼r neue GeschÃ¤ftsmodelle.tex
+Underfull \hbox (badness 10000) in paragraph at lines 75--1
+\T1/lmss/m/n/10 hin-sicht-lich des Da-ten-schut-zes. Da AR zu-neh-mend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--1
+\T1/lmss/m/n/10 in in-dus-tri-el-ler Fer-ti-gung, War-tung und Schu-lung
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 75--1
+\T1/lmss/m/n/10 ein-ge-setzt wird, kön-nen In-for-ma-tio-nen über Ma-schi-nen,
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 75--1
+\T1/lmss/m/n/10 Pro-duk-ti-ons-pro-zes-se und ge-schütz-te Be-triebs-ge-heim-nis-se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--1
+\T1/lmss/m/n/10 vi-sua-li-siert wer-den. Da-ten-schutz-pro-ble-me kön-nen
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 75--1
+\T1/lmss/m/n/10 auf-tre-ten, wenn AR-Anwendungen Zu-griff auf sen-si-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--1
+\T1/lmss/m/n/10 über Pro-duk-ti-ons-ab-läu-fe und -muster sam-meln.
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 75--1
+\T1/lmss/m/n/10 und vor un-be-fug-tem Zu-griff ge-si-chert sind. Dar-über
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 75--1
+\T1/lmss/m/n/10 hin-aus kön-nen AR-Brillen oder -Geräte in in-dus-tri-el-len
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--1
+\T1/lmss/m/n/10 Um-ge-bun-gen auch die Pri-vat-sphä-re der Mit-ar-bei-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--1
+\T1/lmss/m/n/10 be-ein-träch-ti-gen, ins-be-son-de-re wenn sie kon-ti-nu-ier-lich
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 75--1
+\T1/lmss/m/n/10 Technologien ver-ant-wor-tungs-voll ein-ge-setzt wer-den, um
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--1
+
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 3--11
+[]\T1/lmss/m/n/10 Neben den be-ste-hen-den An-wen-dungs-fäl-len von AR
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+\T1/lmss/m/n/10 in der In-dus-trie er-ge-ben sich durch den ste-ti-gen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+Package svg Info: Last page of `./svg-inkscape/studienverteilung_ar_svg-tex.pdf' is 2 on input line 35.
+(svg-inkscape/studienverteilung_ar_svg-tex.pdf_tex
+<./svg-inkscape/studienverteilung_ar_svg-tex.pdf, id=80, page=1, 581.17125pt x 603.0028pt>
+File: ./svg-inkscape/studienverteilung_ar_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/studienverteilung_ar_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/studienverteilung_ar_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 226.79846pt x 235.31735pt.
+<./svg-inkscape/studienverteilung_ar_svg-tex.pdf, id=81, page=2, 581.17125pt x 603.0028pt>
+File: ./svg-inkscape/studienverteilung_ar_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/studienverteilung_ar_svg-tex.pdf, page 2>
+Package pdftex.def Info: ./svg-inkscape/studienverteilung_ar_svg-tex.pdf , page2 used on input line 75.
+(pdftex.def)             Requested size: 226.79846pt x 235.31735pt.
+) [5 <./svg-inkscape/distribution_AR_display_svg-tex.pdf> <./svg-inkscape/distribution_AR_display_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/distribution_AR_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/distribution_AR_display_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/distribution_AR_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/distribution_AR_display_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/distribution_AR_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/distribution_AR_display_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/distribution_AR_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/distribution_AR_display_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/distribution_AR_display_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/studienverteilung_ar_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/studienverteilung_ar_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/studienverteilung_ar_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/studienverteilung_ar_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 1472) has occurred while \output is active []
+
+) (kapitel/Fazit.tex [6])
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 89.
+ (C:\Users\kuhns\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
+File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TS1/lmss/m/it' in size <10> not available
+(Font)              Font shape `TS1/lmss/m/sl' tried instead on input line 89.
+
+Underfull \hbox (badness 4927) in paragraph at lines 90--90
+[]\T1/lmss/m/n/10 Mark Bil-ling-hurst, Adri-an Clark, Gun Lee u.a.
+ []
+
+[7]
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[8
+
+] (Augmented_Reality.aux)
+Package logreq Info: Writing requests to 'Augmented_Reality.run.xml'.
+\openout1 = `Augmented_Reality.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 37525 strings out of 475385
+ 925066 string characters out of 2776908
+ 1810591 words of memory out of 3000000
+ 58273 multiletter control sequences out of 15000+600000
+ 682127 words of font info for 154 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 94i,19n,106p,756b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb>
+Output written on Augmented_Reality.pdf (8 pages, 380000 bytes).
+PDF statistics:
+ 281 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+

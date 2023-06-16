@@ -1,0 +1,15 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Augmented_Reality.blg'
+[96] biber-MSWIN64:340> INFO - === 
+[135] Biber.pm:418> INFO - Reading 'Augmented_Reality.bcf'
+[226] Biber.pm:978> INFO - Found 25 citekeys in bib section 0
+[237] Biber.pm:4401> INFO - Processing section 0
+[247] Biber.pm:4592> INFO - Looking for bibtex file 'ref/ref_liste.bib' for section 0
+[303] bibtex.pm:1713> INFO - LaTeX decoding ...
+[329] bibtex.pm:1518> INFO - Found BibTeX data source 'ref/ref_liste.bib'
+[456] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[456] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[457] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[457] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[468] bbl.pm:654> INFO - Writing 'Augmented_Reality.bbl' with encoding 'UTF-8'
+[482] bbl.pm:757> INFO - Output to Augmented_Reality.bbl
