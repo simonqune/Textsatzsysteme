@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber Augmented_Reality"] 1686931084 "Augmented_Reality.bcf" "Augmented_Reality.bbl" "Augmented_Reality" 1688734744 0
+["biber Augmented_Reality"] 1686931084 "Augmented_Reality.bcf" "Augmented_Reality.bbl" "Augmented_Reality" 1686931093 0
   "./ref/ref_liste.bib" 1686929236 9496 16aaada0382a947390454af294947dd1 ""
-  "Augmented_Reality.bcf" 1688734743 109019 4d38240c3a62a7790532bf3d2cfcdfda "pdflatex"
+  "Augmented_Reality.bcf" 1686931093 109019 4d38240c3a62a7790532bf3d2cfcdfda "pdflatex"
   (generated)
   "Augmented_Reality.bbl"
   "Augmented_Reality.blg"
   (rewritten before read)
-["pdflatex"] 1688734740 "c:/Git/Textsatzsysteme/Augmented_Reality.tex" "Augmented_Reality.pdf" "Augmented_Reality" 1688734744 0
-  "Augmented_Reality.aux" 1688734743 8252 03e981f65c6cad4505a745938f190a2b "pdflatex"
+["pdflatex"] 1686931091 "c:/Git/Textsatzsysteme/Augmented_Reality.tex" "Augmented_Reality.pdf" "Augmented_Reality" 1686931093 0
+  "Augmented_Reality.aux" 1686931093 8252 03e981f65c6cad4505a745938f190a2b "pdflatex"
   "Augmented_Reality.bbl" 1686931086 46200 2aded14ff81c2fa9c55cd5231b5a5ec2 "biber Augmented_Reality"
-  "Augmented_Reality.run.xml" 1688734743 2470 85dc5ad7398265372dcf6bbf67e4eafd "pdflatex"
-  "Augmented_Reality.tex" 1686931126 3155 22838aaa54d002bbec6f5a66ea9701d6 ""
-  "C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1687369964 82686 2381c3433487640bf26aa76a10db7eb2 ""
+  "Augmented_Reality.run.xml" 1686931093 2470 85dc5ad7398265372dcf6bbf67e4eafd "pdflatex"
+  "Augmented_Reality.tex" 1686931084 3155 22838aaa54d002bbec6f5a66ea9701d6 ""
+  "C:/Users/kuhns/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686864265 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/kuhns/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1680337344 10788009 6bdcefacb10213bc9a84c5cbc258c069 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/kuhns/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256933040 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -262,7 +262,7 @@
   "bilder/svg/optical_see_trough_display.svg" 1686733100 4071 a0d2828fa1a69d270e3971be66fa0290 ""
   "bilder/svg/strucutre_video_based_AR.svg" 1686731926 3156 a8ccfd6ae7b5656122b628a697bbf6d6 ""
   "bilder/svg/studienverteilung_ar.svg" 1686919037 7298 07e7a3b6fef718ed02873a0ec6e175a5 ""
-  "c:/Git/Textsatzsysteme/Augmented_Reality.tex" 1686931126 3155 22838aaa54d002bbec6f5a66ea9701d6 ""
+  "c:/Git/Textsatzsysteme/Augmented_Reality.tex" 1686931084 3155 22838aaa54d002bbec6f5a66ea9701d6 ""
   "kapitel/AR_in_der_Industrie_Stand_der_Technik.tex" 1686930169 2797 76d045bff81432627d00474af8a0470d ""
   "kapitel/Einführung.tex" 1686930233 1005 ffe7e3764de1a20e0f6e7b3533778966 ""
   "kapitel/Fazit.tex" 1686929529 2056 637054527069c4e16dbd62d30c05d8e3 ""
